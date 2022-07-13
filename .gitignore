@@ -1,4 +1,5 @@
 .sync/
+03_nature/
 *.recipe
 nohup.out
 *.sh
