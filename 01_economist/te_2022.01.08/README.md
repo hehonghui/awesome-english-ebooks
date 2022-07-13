@@ -10,9 +10,9 @@
 
 ---------------------
 ## 一、杂志下载
-* [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2022.01.08/TheEconomist.2022.01.08.mobi) 
-* [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2022.01.08/TheEconomist.2022.01.08.epub)
-* [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2022.01.08/TheEconomist.2022.01.08.pdf)
+* [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/01_economist/te_2022.01.08/TheEconomist.2022.01.08.mobi) 
+* [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/01_economist/te_2022.01.08/TheEconomist.2022.01.08.epub)
+* [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/01_economist/te_2022.01.08/TheEconomist.2022.01.08.pdf)
     
-* [经济学人 - 音频下载](https://github.com/hehonghui/the-economist-ebooks/wiki/te_audios_2022)
+* [经济学人 - 音频下载](https://github.com/hehonghui/awesome-english-ebooks/wiki/te_audios_2022)
     

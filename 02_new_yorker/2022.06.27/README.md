@@ -9,7 +9,7 @@
 
 ---------------------
 ## 一、杂志下载
-* [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/02_new_yorker/2022.06.27/new_yorker.2022.06.27.mobi) 
-* [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/02_new_yorker/2022.06.27/new_yorker.2022.06.27.epub)
-* [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/02_new_yorker/2022.06.27/new_yorker.2022.06.27.pdf)
+* [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/02_new_yorker/2022.06.27/new_yorker.2022.06.27.mobi) 
+* [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/02_new_yorker/2022.06.27/new_yorker.2022.06.27.epub)
+* [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/02_new_yorker/2022.06.27/new_yorker.2022.06.27.pdf)
     
