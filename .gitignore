@@ -24,3 +24,4 @@ tmp
 *.jar
 ny_audios.json
 ./*.epub
+./*/*/*.mobi
