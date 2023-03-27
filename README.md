@@ -4,7 +4,6 @@
 ## 一、优质App推荐
 
 * <img align="center" src="https://ereader.link/images/ereader.png" width="32px" /> 英阅阅读器 - 超好用的英语阅读神器, <font color="#e3120b">让您轻松读懂英文小说、外刊杂志</font>,支持点击查词、句子翻译、mdict英汉-英英词典、阅读笔记等功能,[iOS版下载](https://apps.apple.com/cn/app/ereader-%E8%8B%B1%E9%98%85%E9%98%85%E8%AF%BB%E5%99%A8/id1558805880)、[Android版下载](https://www.coolapk.com/apk/283424);
-* <img align="center" src="https://img-blog.csdnimg.cn/909634eacf664a8f8f5fc41ec648bb1c.png" width="32px" /> 英语考级君 - <font color="#e3120b">考研英语、四六级一站式备考App</font>, 真题刷题、听力提升(有声书、听力素材)、背单词、语法学习全覆盖, 助力您的英语考试。[点击这里下载iOS版](https://apps.apple.com/id/app/%E8%8B%B1%E8%AF%AD%E8%80%83%E7%BA%A7%E5%90%9B-%E8%8B%B1%E8%AF%AD%E8%80%83%E8%AF%95%E5%A4%87%E8%80%83-%E6%82%A8%E7%9A%84%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E4%BC%B4%E4%BE%A3/id1585354395) ;
 
 ---------------------
 
