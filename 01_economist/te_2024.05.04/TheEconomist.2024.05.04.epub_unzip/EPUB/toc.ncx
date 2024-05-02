@@ -1,0 +1,572 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="181af114-5174-4793-8158-269097bab574" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>TheEconomist.2024.05.04</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="sep_0" playOrder="1">
+      <navLabel>
+        <text>The world this week</text>
+      </navLabel>
+      <content src="Politics.html"/>
+      <navPoint id="chapter_1" playOrder="2">
+        <navLabel>
+          <text>Politics</text>
+        </navLabel>
+        <content src="Politics.html"/>
+      </navPoint>
+      <navPoint id="chapter_2" playOrder="3">
+        <navLabel>
+          <text>Business</text>
+        </navLabel>
+        <content src="Business.html"/>
+      </navPoint>
+      <navPoint id="chapter_3" playOrder="4">
+        <navLabel>
+          <text>KAL’s cartoon</text>
+        </navLabel>
+        <content src="KAL’s cartoon.html"/>
+      </navPoint>
+      <navPoint id="chapter_4" playOrder="5">
+        <navLabel>
+          <text>This week’s covers</text>
+        </navLabel>
+        <content src="This week’s covers.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_1" playOrder="6">
+      <navLabel>
+        <text>Leaders</text>
+      </navLabel>
+      <content src="Emmanuel Macron’s urgent message for Europe.html"/>
+      <navPoint id="chapter_6" playOrder="7">
+        <navLabel>
+          <text>Emmanuel Macron’s urgent message for Europe</text>
+        </navLabel>
+        <content src="Emmanuel Macron’s urgent message for Europe.html"/>
+      </navPoint>
+      <navPoint id="chapter_7" playOrder="8">
+        <navLabel>
+          <text>How disinformation works—and how to counter it</text>
+        </navLabel>
+        <content src="How disinformation works—and how to counter it.html"/>
+      </navPoint>
+      <navPoint id="chapter_8" playOrder="9">
+        <navLabel>
+          <text>Should American universities call the cops on protesting students?</text>
+        </navLabel>
+        <content src="Should American universities call the cops on protesting students?.html"/>
+      </navPoint>
+      <navPoint id="chapter_9" playOrder="10">
+        <navLabel>
+          <text>America’s reckless borrowing is a danger to its economy—and the world’s</text>
+        </navLabel>
+        <content src="America’s reckless borrowing is a danger to its economy—and the world’s.html"/>
+      </navPoint>
+      <navPoint id="chapter_10" playOrder="11">
+        <navLabel>
+          <text>Why South Africans are fed up after 30 years of democracy</text>
+        </navLabel>
+        <content src="Why South Africans are fed up after 30 years of democracy.html"/>
+      </navPoint>
+      <navPoint id="chapter_11" playOrder="12">
+        <navLabel>
+          <text>Japan is wrong to try to prop up the yen</text>
+        </navLabel>
+        <content src="Japan is wrong to try to prop up the yen.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_2" playOrder="13">
+      <navLabel>
+        <text>Letters</text>
+      </navLabel>
+      <content src="Letters to the editor.html"/>
+      <navPoint id="chapter_13" playOrder="14">
+        <navLabel>
+          <text>Letters to the editor</text>
+        </navLabel>
+        <content src="Letters to the editor.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_3" playOrder="15">
+      <navLabel>
+        <text>By Invitation</text>
+      </navLabel>
+      <content src="Indonesia’s president-elect accuses the West of double standards.html"/>
+      <navPoint id="chapter_15" playOrder="16">
+        <navLabel>
+          <text>Indonesia’s president-elect accuses the West of double standards</text>
+        </navLabel>
+        <content src="Indonesia’s president-elect accuses the West of double standards.html"/>
+      </navPoint>
+      <navPoint id="chapter_16" playOrder="17">
+        <navLabel>
+          <text>Central banks may have misread the impact of QT, says an economist</text>
+        </navLabel>
+        <content src="Central banks may have misread the impact of QT, says an economist.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_4" playOrder="18">
+      <navLabel>
+        <text>Briefing</text>
+      </navLabel>
+      <content src="America’s fiscal outlook is disastrous, but forgotten.html"/>
+      <navPoint id="chapter_18" playOrder="19">
+        <navLabel>
+          <text>America’s fiscal outlook is disastrous, but forgotten</text>
+        </navLabel>
+        <content src="America’s fiscal outlook is disastrous, but forgotten.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_5" playOrder="20">
+      <navLabel>
+        <text>United States</text>
+      </navLabel>
+      <content src="Why the Biden administration is rushing to produce regulations.html"/>
+      <navPoint id="chapter_20" playOrder="21">
+        <navLabel>
+          <text>Why the Biden administration is rushing to produce regulations</text>
+        </navLabel>
+        <content src="Why the Biden administration is rushing to produce regulations.html"/>
+      </navPoint>
+      <navPoint id="chapter_21" playOrder="22">
+        <navLabel>
+          <text>Hawaii may soon have America’s first official state gesture</text>
+        </navLabel>
+        <content src="Hawaii may soon have America’s first official state gesture.html"/>
+      </navPoint>
+      <navPoint id="chapter_22" playOrder="23">
+        <navLabel>
+          <text>Escalating protests expose three fault lines on American campuses</text>
+        </navLabel>
+        <content src="Escalating protests expose three fault lines on American campuses.html"/>
+      </navPoint>
+      <navPoint id="chapter_23" playOrder="24">
+        <navLabel>
+          <text>Seaport Tower shows New York’s fight between housing and heritage</text>
+        </navLabel>
+        <content src="Seaport Tower shows New York’s fight between housing and heritage.html"/>
+      </navPoint>
+      <navPoint id="chapter_24" playOrder="25">
+        <navLabel>
+          <text>California’s population is growing again</text>
+        </navLabel>
+        <content src="California’s population is growing again.html"/>
+      </navPoint>
+      <navPoint id="chapter_25" playOrder="26">
+        <navLabel>
+          <text>A surprising Japanese presence in a traditional American craft</text>
+        </navLabel>
+        <content src="A surprising Japanese presence in a traditional American craft.html"/>
+      </navPoint>
+      <navPoint id="chapter_26" playOrder="27">
+        <navLabel>
+          <text>Joe Biden is practising some Clintonian politics</text>
+        </navLabel>
+        <content src="Joe Biden is practising some Clintonian politics.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_6" playOrder="28">
+      <navLabel>
+        <text>The Americas</text>
+      </navLabel>
+      <content src="Andrés Manuel López Obrador will haunt his successor.html"/>
+      <navPoint id="chapter_28" playOrder="29">
+        <navLabel>
+          <text>Andrés Manuel López Obrador will haunt his successor</text>
+        </navLabel>
+        <content src="Andrés Manuel López Obrador will haunt his successor.html"/>
+      </navPoint>
+      <navPoint id="chapter_29" playOrder="30">
+        <navLabel>
+          <text>Latin America’s farmers are cashing in on hot hot cocoa prices</text>
+        </navLabel>
+        <content src="Latin America’s farmers are cashing in on hot hot cocoa prices.html"/>
+      </navPoint>
+      <navPoint id="chapter_30" playOrder="31">
+        <navLabel>
+          <text>Years of growth forged prosaic politics. Now Panamanians are fed up</text>
+        </navLabel>
+        <content src="Years of growth forged prosaic politics. Now Panamanians are fed up.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_7" playOrder="32">
+      <navLabel>
+        <text>Asia</text>
+      </navLabel>
+      <content src="Even disillusioned young Indian voters favour Narendra Modi.html"/>
+      <navPoint id="chapter_32" playOrder="33">
+        <navLabel>
+          <text>Even disillusioned young Indian voters favour Narendra Modi</text>
+        </navLabel>
+        <content src="Even disillusioned young Indian voters favour Narendra Modi.html"/>
+      </navPoint>
+      <navPoint id="chapter_33" playOrder="34">
+        <navLabel>
+          <text>The Philippines bans some genetically modified foods</text>
+        </navLabel>
+        <content src="The Philippines bans some genetically modified foods.html"/>
+      </navPoint>
+      <navPoint id="chapter_34" playOrder="35">
+        <navLabel>
+          <text>Japan and South Korea are struggling with old-age poverty</text>
+        </navLabel>
+        <content src="Japan and South Korea are struggling with old-age poverty.html"/>
+      </navPoint>
+      <navPoint id="chapter_35" playOrder="36">
+        <navLabel>
+          <text>Meet the maharajas of the world’s biggest democracy</text>
+        </navLabel>
+        <content src="Meet the maharajas of the world’s biggest democracy.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_8" playOrder="37">
+      <navLabel>
+        <text>China</text>
+      </navLabel>
+      <content src="China mulls a bold test of taxation without representation.html"/>
+      <navPoint id="chapter_37" playOrder="38">
+        <navLabel>
+          <text>China mulls a bold test of taxation without representation</text>
+        </navLabel>
+        <content src="China mulls a bold test of taxation without representation.html"/>
+      </navPoint>
+      <navPoint id="chapter_38" playOrder="39">
+        <navLabel>
+          <text>Why China’s companies are recruiting their own militias</text>
+        </navLabel>
+        <content src="Why China’s companies are recruiting their own militias.html"/>
+      </navPoint>
+      <navPoint id="chapter_39" playOrder="40">
+        <navLabel>
+          <text>The Chinese scientist who sequenced covid is barred from his lab</text>
+        </navLabel>
+        <content src="The Chinese scientist who sequenced covid is barred from his lab.html"/>
+      </navPoint>
+      <navPoint id="chapter_40" playOrder="41">
+        <navLabel>
+          <text>China and America trade blame for a world on fire</text>
+        </navLabel>
+        <content src="China and America trade blame for a world on fire.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_9" playOrder="42">
+      <navLabel>
+        <text>Middle East &amp; Africa</text>
+      </navLabel>
+      <content src="How South Africa has changed 30 years after apartheid.html"/>
+      <navPoint id="chapter_42" playOrder="43">
+        <navLabel>
+          <text>How South Africa has changed 30 years after apartheid</text>
+        </navLabel>
+        <content src="How South Africa has changed 30 years after apartheid.html"/>
+      </navPoint>
+      <navPoint id="chapter_43" playOrder="44">
+        <navLabel>
+          <text>Gulf governments are changing, but not how they talk to citizens</text>
+        </navLabel>
+        <content src="Gulf governments are changing, but not how they talk to citizens.html"/>
+      </navPoint>
+      <navPoint id="chapter_44" playOrder="45">
+        <navLabel>
+          <text>Israel’s prime minister does not know where to go</text>
+        </navLabel>
+        <content src="Israel’s prime minister does not know where to go.html"/>
+      </navPoint>
+      <navPoint id="chapter_45" playOrder="46">
+        <navLabel>
+          <text>University protests about Gaza spread to the Middle East</text>
+        </navLabel>
+        <content src="University protests about Gaza spread to the Middle East.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_10" playOrder="47">
+      <navLabel>
+        <text>Europe</text>
+      </navLabel>
+      <content src="Emmanuel Macron on how to rescue Europe.html"/>
+      <navPoint id="chapter_47" playOrder="48">
+        <navLabel>
+          <text>Emmanuel Macron on how to rescue Europe</text>
+        </navLabel>
+        <content src="Emmanuel Macron on how to rescue Europe.html"/>
+      </navPoint>
+      <navPoint id="chapter_48" playOrder="49">
+        <navLabel>
+          <text>Espionage scandals are hurting Germany’s far right</text>
+        </navLabel>
+        <content src="Espionage scandals are hurting Germany’s far right.html"/>
+      </navPoint>
+      <navPoint id="chapter_49" playOrder="50">
+        <navLabel>
+          <text>Ukraine’s draft dodgers are living in fear</text>
+        </navLabel>
+        <content src="Ukraine’s draft dodgers are living in fear.html"/>
+      </navPoint>
+      <navPoint id="chapter_50" playOrder="51">
+        <navLabel>
+          <text>Turkey’s President Erdogan faces a new challenge from Islamists</text>
+        </navLabel>
+        <content src="Turkey’s President Erdogan faces a new challenge from Islamists.html"/>
+      </navPoint>
+      <navPoint id="chapter_51" playOrder="52">
+        <navLabel>
+          <text>Donald Tusk mulls which of the previous government’s plans to axe</text>
+        </navLabel>
+        <content src="Donald Tusk mulls which of the previous government’s plans to axe.html"/>
+      </navPoint>
+      <navPoint id="chapter_52" playOrder="53">
+        <navLabel>
+          <text>Europeans lack visceral attachment to the EU. Does it matter?</text>
+        </navLabel>
+        <content src="Europeans lack visceral attachment to the EU. Does it matter?.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_11" playOrder="54">
+      <navLabel>
+        <text>Britain</text>
+      </navLabel>
+      <content src="Labour is the big beneficiary of Scottish political turmoil.html"/>
+      <navPoint id="chapter_54" playOrder="55">
+        <navLabel>
+          <text>Labour is the big beneficiary of Scottish political turmoil</text>
+        </navLabel>
+        <content src="Labour is the big beneficiary of Scottish political turmoil.html"/>
+      </navPoint>
+      <navPoint id="chapter_55" playOrder="56">
+        <navLabel>
+          <text>Why so many Britons have taken to stand-up paddleboarding</text>
+        </navLabel>
+        <content src="Why so many Britons have taken to stand-up paddleboarding.html"/>
+      </navPoint>
+      <navPoint id="chapter_56" playOrder="57">
+        <navLabel>
+          <text>The fight over one of Britain’s last steel plants</text>
+        </navLabel>
+        <content src="The fight over one of Britain’s last steel plants.html"/>
+      </navPoint>
+      <navPoint id="chapter_57" playOrder="58">
+        <navLabel>
+          <text>Questions grow over the future of the London stockmarket</text>
+        </navLabel>
+        <content src="Questions grow over the future of the London stockmarket.html"/>
+      </navPoint>
+      <navPoint id="chapter_58" playOrder="59">
+        <navLabel>
+          <text>British farmers shunned green schemes. Then the rain came</text>
+        </navLabel>
+        <content src="British farmers shunned green schemes. Then the rain came.html"/>
+      </navPoint>
+      <navPoint id="chapter_59" playOrder="60">
+        <navLabel>
+          <text>A growing number of Britons are on disability benefits</text>
+        </navLabel>
+        <content src="A growing number of Britons are on disability benefits.html"/>
+      </navPoint>
+      <navPoint id="chapter_60" playOrder="61">
+        <navLabel>
+          <text>Jeremy Clarkson, patron saint of the Great British bore</text>
+        </navLabel>
+        <content src="Jeremy Clarkson, patron saint of the Great British bore.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_12" playOrder="62">
+      <navLabel>
+        <text>International</text>
+      </navLabel>
+      <content src="Beware, global jihadists are back on the march.html"/>
+      <navPoint id="chapter_62" playOrder="63">
+        <navLabel>
+          <text>Beware, global jihadists are back on the march</text>
+        </navLabel>
+        <content src="Beware, global jihadists are back on the march.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_13" playOrder="64">
+      <navLabel>
+        <text>Business</text>
+      </navLabel>
+      <content src="How to handle populists: a CEO’s survival guide.html"/>
+      <navPoint id="chapter_64" playOrder="65">
+        <navLabel>
+          <text>How to handle populists: a CEO’s survival guide</text>
+        </navLabel>
+        <content src="How to handle populists: a CEO’s survival guide.html"/>
+      </navPoint>
+      <navPoint id="chapter_65" playOrder="66">
+        <navLabel>
+          <text>Why does BHP want Anglo American?</text>
+        </navLabel>
+        <content src="Why does BHP want Anglo American?.html"/>
+      </navPoint>
+      <navPoint id="chapter_66" playOrder="67">
+        <navLabel>
+          <text>Chinese EV-makers are leaving Western rivals in the dust</text>
+        </navLabel>
+        <content src="Chinese EV-makers are leaving Western rivals in the dust.html"/>
+      </navPoint>
+      <navPoint id="chapter_67" playOrder="68">
+        <navLabel>
+          <text>How not to work on a plane</text>
+        </navLabel>
+        <content src="How not to work on a plane.html"/>
+      </navPoint>
+      <navPoint id="chapter_68" playOrder="69">
+        <navLabel>
+          <text>Can biotech startups upstage Eli Lilly and Novo Nordisk?</text>
+        </navLabel>
+        <content src="Can biotech startups upstage Eli Lilly and Novo Nordisk?.html"/>
+      </navPoint>
+      <navPoint id="chapter_69" playOrder="70">
+        <navLabel>
+          <text>Does Perplexity’s “answer engine” threaten Google?</text>
+        </navLabel>
+        <content src="Does Perplexity’s “answer engine” threaten Google?.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_14" playOrder="71">
+      <navLabel>
+        <text>Finance &amp; economics</text>
+      </navLabel>
+      <content src="Immigration is surging, with big economic consequences.html"/>
+      <navPoint id="chapter_71" playOrder="72">
+        <navLabel>
+          <text>Immigration is surging, with big economic consequences</text>
+        </navLabel>
+        <content src="Immigration is surging, with big economic consequences.html"/>
+      </navPoint>
+      <navPoint id="chapter_72" playOrder="73">
+        <navLabel>
+          <text>Russia’s gas business will never recover from the war in Ukraine</text>
+        </navLabel>
+        <content src="Russia’s gas business will never recover from the war in Ukraine.html"/>
+      </navPoint>
+      <navPoint id="chapter_73" playOrder="74">
+        <navLabel>
+          <text>Japan will struggle to rescue its plummeting currency</text>
+        </navLabel>
+        <content src="Japan will struggle to rescue its plummeting currency.html"/>
+      </navPoint>
+      <navPoint id="chapter_74" playOrder="75">
+        <navLabel>
+          <text>Hedge funds make billions as India’s options market goes ballistic</text>
+        </navLabel>
+        <content src="Hedge funds make billions as India’s options market goes ballistic.html"/>
+      </navPoint>
+      <navPoint id="chapter_75" playOrder="76">
+        <navLabel>
+          <text>What campus protesters get wrong about divestment</text>
+        </navLabel>
+        <content src="What campus protesters get wrong about divestment.html"/>
+      </navPoint>
+      <navPoint id="chapter_76" playOrder="77">
+        <navLabel>
+          <text>Working from home and the US-Europe divide</text>
+        </navLabel>
+        <content src="Working from home and the US-Europe divide.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_15" playOrder="78">
+      <navLabel>
+        <text>Science &amp; technology</text>
+      </navLabel>
+      <content src="Disinformation is on the rise. How does it work?.html"/>
+      <navPoint id="chapter_78" playOrder="79">
+        <navLabel>
+          <text>Disinformation is on the rise. How does it work?</text>
+        </navLabel>
+        <content src="Disinformation is on the rise. How does it work?.html"/>
+      </navPoint>
+      <navPoint id="chapter_79" playOrder="80">
+        <navLabel>
+          <text>Producing fake information is getting easier</text>
+        </navLabel>
+        <content src="Producing fake information is getting easier.html"/>
+      </navPoint>
+      <navPoint id="chapter_80" playOrder="81">
+        <navLabel>
+          <text>The truth behind Olena Zelenska’s $1.1m Cartier haul</text>
+        </navLabel>
+        <content src="The truth behind Olena Zelenska’s $1.1m Cartier haul.html"/>
+      </navPoint>
+      <navPoint id="chapter_81" playOrder="82">
+        <navLabel>
+          <text>Fighting disinformation gets harder, just when it matters most</text>
+        </navLabel>
+        <content src="Fighting disinformation gets harder, just when it matters most.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_16" playOrder="83">
+      <navLabel>
+        <text>Culture</text>
+      </navLabel>
+      <content src="Romantasy brings dragons and eroticism together. At last.html"/>
+      <navPoint id="chapter_83" playOrder="84">
+        <navLabel>
+          <text>Romantasy brings dragons and eroticism together. At last</text>
+        </navLabel>
+        <content src="Romantasy brings dragons and eroticism together. At last.html"/>
+      </navPoint>
+      <navPoint id="chapter_84" playOrder="85">
+        <navLabel>
+          <text>Is there more or less sex on screen?</text>
+        </navLabel>
+        <content src="Is there more or less sex on screen?.html"/>
+      </navPoint>
+      <navPoint id="chapter_85" playOrder="86">
+        <navLabel>
+          <text>Fed up with Biden v Trump II? Some succour from fictional rematches</text>
+        </navLabel>
+        <content src="Fed up with Biden v Trump II? Some succour from fictional rematches.html"/>
+      </navPoint>
+      <navPoint id="chapter_86" playOrder="87">
+        <navLabel>
+          <text>A new graphic novel takes aim at Iran’s oppressive government</text>
+        </navLabel>
+        <content src="A new graphic novel takes aim at Iran’s oppressive government.html"/>
+      </navPoint>
+      <navPoint id="chapter_87" playOrder="88">
+        <navLabel>
+          <text>“Boléro” is among the most lucrative works of classical music</text>
+        </navLabel>
+        <content src="“Boléro” is among the most lucrative works of classical music.html"/>
+      </navPoint>
+      <navPoint id="chapter_88" playOrder="89">
+        <navLabel>
+          <text>A little-remembered rivalry that shaped the modern world</text>
+        </navLabel>
+        <content src="A little-remembered rivalry that shaped the modern world.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_17" playOrder="90">
+      <navLabel>
+        <text>Economic &amp; financial indicators</text>
+      </navLabel>
+      <content src="Economic data, commodities and markets.html"/>
+      <navPoint id="chapter_90" playOrder="91">
+        <navLabel>
+          <text>Economic data, commodities and markets</text>
+        </navLabel>
+        <content src="Economic data, commodities and markets.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_18" playOrder="92">
+      <navLabel>
+        <text>Obituary</text>
+      </navLabel>
+      <content src="Eleanor Coppola recorded how a cinematic triumph almost came unstuck.html"/>
+      <navPoint id="chapter_92" playOrder="93">
+        <navLabel>
+          <text>Eleanor Coppola recorded how a cinematic triumph almost came unstuck</text>
+        </navLabel>
+        <content src="Eleanor Coppola recorded how a cinematic triumph almost came unstuck.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
