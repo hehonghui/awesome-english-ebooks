@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="3e73f934-10ff-442c-8ee5-1fe6ed747c1b" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>new_yorker.2024.05.06</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="sep_0" playOrder="1">
+      <navLabel>
+        <text>Goings On</text>
+      </navLabel>
+      <content src="Teresita Fernández’s Shifting Sculptural Landscapes.html"/>
+      <navPoint id="chapter_1" playOrder="2">
+        <navLabel>
+          <text>Teresita Fernández’s Shifting Sculptural Landscapes</text>
+        </navLabel>
+        <content src="Teresita Fernández’s Shifting Sculptural Landscapes.html"/>
+      </navPoint>
+      <navPoint id="chapter_2" playOrder="3">
+        <navLabel>
+          <text>The Return, Again, of the Power Lunch</text>
+        </navLabel>
+        <content src="The Return, Again, of the Power Lunch.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_1" playOrder="4">
+      <navLabel>
+        <text>The Talk of the Town</text>
+      </navLabel>
+      <content src="Donald Trump’s Sleepy, Sleazy Criminal Trial.html"/>
+      <navPoint id="chapter_4" playOrder="5">
+        <navLabel>
+          <text>Donald Trump’s Sleepy, Sleazy Criminal Trial</text>
+        </navLabel>
+        <content src="Donald Trump’s Sleepy, Sleazy Criminal Trial.html"/>
+      </navPoint>
+      <navPoint id="chapter_5" playOrder="6">
+        <navLabel>
+          <text>The Civil War Photographers Before Kirsten Dunst</text>
+        </navLabel>
+        <content src="The Civil War Photographers Before Kirsten Dunst.html"/>
+      </navPoint>
+      <navPoint id="chapter_6" playOrder="7">
+        <navLabel>
+          <text>Breaking a Ramadan Fast with Ramy Youssef</text>
+        </navLabel>
+        <content src="Breaking a Ramadan Fast with Ramy Youssef.html"/>
+      </navPoint>
+      <navPoint id="chapter_7" playOrder="8">
+        <navLabel>
+          <text>How to Play Putin</text>
+        </navLabel>
+        <content src="How to Play Putin.html"/>
+      </navPoint>
+      <navPoint id="chapter_8" playOrder="9">
+        <navLabel>
+          <text>A Miami Heat Rookie Gets Checkmated</text>
+        </navLabel>
+        <content src="A Miami Heat Rookie Gets Checkmated.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_2" playOrder="10">
+      <navLabel>
+        <text>Reporting &amp; Essays</text>
+      </navLabel>
+      <content src="Who’s Afraid of Judith Butler?.html"/>
+      <navPoint id="chapter_10" playOrder="11">
+        <navLabel>
+          <text>Who’s Afraid of Judith Butler?</text>
+        </navLabel>
+        <content src="Who’s Afraid of Judith Butler?.html"/>
+      </navPoint>
+      <navPoint id="chapter_11" playOrder="12">
+        <navLabel>
+          <text>Can Turning Office Towers Into Apartments Save Downtowns?</text>
+        </navLabel>
+        <content src="Can Turning Office Towers Into Apartments Save Downtowns?.html"/>
+      </navPoint>
+      <navPoint id="chapter_12" playOrder="13">
+        <navLabel>
+          <text>Deb Haaland Confronts the History of the Federal Agency She Leads</text>
+        </navLabel>
+        <content src="Deb Haaland Confronts the History of the Federal Agency She Leads.html"/>
+      </navPoint>
+      <navPoint id="chapter_13" playOrder="14">
+        <navLabel>
+          <text>The Battle for Attention</text>
+        </navLabel>
+        <content src="The Battle for Attention.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_3" playOrder="15">
+      <navLabel>
+        <text>Shouts &amp; Murmurs</text>
+      </navLabel>
+      <content src="Horoscopes Written by My Mother.html"/>
+      <navPoint id="chapter_15" playOrder="16">
+        <navLabel>
+          <text>Horoscopes Written by My Mother</text>
+        </navLabel>
+        <content src="Horoscopes Written by My Mother.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_4" playOrder="17">
+      <navLabel>
+        <text>Fiction</text>
+      </navLabel>
+      <content src="Pulse.html"/>
+      <navPoint id="chapter_17" playOrder="18">
+        <navLabel>
+          <text>Pulse</text>
+        </navLabel>
+        <content src="Pulse.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_5" playOrder="19">
+      <navLabel>
+        <text>The Critics</text>
+      </navLabel>
+      <content src="Academic Freedom Under Fire.html"/>
+      <navPoint id="chapter_19" playOrder="20">
+        <navLabel>
+          <text>Academic Freedom Under Fire</text>
+        </navLabel>
+        <content src="Academic Freedom Under Fire.html"/>
+      </navPoint>
+      <navPoint id="chapter_20" playOrder="21">
+        <navLabel>
+          <text>Briefly Noted</text>
+        </navLabel>
+        <content src="Briefly Noted.html"/>
+      </navPoint>
+      <navPoint id="chapter_21" playOrder="22">
+        <navLabel>
+          <text>How Far Should We Carry the Logic of the Animal-Rights Movement?</text>
+        </navLabel>
+        <content src="How Far Should We Carry the Logic of the Animal-Rights Movement?.html"/>
+      </navPoint>
+      <navPoint id="chapter_22" playOrder="23">
+        <navLabel>
+          <text>Taylor Swift’s Tortured Poetry</text>
+        </navLabel>
+        <content src="Taylor Swift’s Tortured Poetry.html"/>
+      </navPoint>
+      <navPoint id="chapter_23" playOrder="24">
+        <navLabel>
+          <text>“Stereophonic” and “Cabaret” Turn Up the Volume on Broadway</text>
+        </navLabel>
+        <content src="“Stereophonic” and “Cabaret” Turn Up the Volume on Broadway.html"/>
+      </navPoint>
+      <navPoint id="chapter_24" playOrder="25">
+        <navLabel>
+          <text>Love Means Nothing in Tennis but Everything in “Challengers”</text>
+        </navLabel>
+        <content src="Love Means Nothing in Tennis but Everything in “Challengers”.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_6" playOrder="26">
+      <navLabel>
+        <text>Poems</text>
+      </navLabel>
+      <content src="Laundry.html"/>
+      <navPoint id="chapter_26" playOrder="27">
+        <navLabel>
+          <text>Laundry</text>
+        </navLabel>
+        <content src="Laundry.html"/>
+      </navPoint>
+      <navPoint id="chapter_27" playOrder="28">
+        <navLabel>
+          <text>Second Nature</text>
+        </navLabel>
+        <content src="Second Nature.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_7" playOrder="29">
+      <navLabel>
+        <text>Puzzles &amp; Games</text>
+      </navLabel>
+      <content src="The Crossword: Monday, April 29, 2024.html"/>
+      <navPoint id="chapter_29" playOrder="30">
+        <navLabel>
+          <text>The Crossword: Monday, April 29, 2024</text>
+        </navLabel>
+        <content src="The Crossword: Monday, April 29, 2024.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_8" playOrder="31">
+      <navLabel>
+        <text>Mail</text>
+      </navLabel>
+      <content src="The Mail.html"/>
+      <navPoint id="chapter_31" playOrder="32">
+        <navLabel>
+          <text>The Mail</text>
+        </navLabel>
+        <content src="The Mail.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

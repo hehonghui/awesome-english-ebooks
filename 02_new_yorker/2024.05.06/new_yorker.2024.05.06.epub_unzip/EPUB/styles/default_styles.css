@@ -1,0 +1,153 @@
+/* economist */
+.te_fly_title {
+    display: block;
+    font-weight: bold;
+    margin: 0;
+}
+
+body h2 {
+    color: #e3120b;
+}
+
+.section_index_title, .te_fly_title, .span_ufinish {
+    color: #e3120b;
+}
+
+.te_article_title {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.67em 0;
+}
+
+.te_article_rubric {
+    color: grey;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: bold;
+    text-align: left;
+}
+
+.te_article_datePublished {
+    color: grey;
+    font-size: 0.8em;
+}
+
+.issue_date_p {
+    text-align: right;
+    color: grey;
+    margin: 5px 20px;
+}
+
+.mastheadImage_div {
+    text-align: center;
+}
+
+.sec_toc_item {
+    color: #e3120b;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-decoration: underline;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
+
+.head_image_div {
+    text-align: center;
+    display: block;
+}
+
+.head_image_div img {
+    width: auto;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt;
+}
+
+.link_navbar {
+    display: block;
+    font-family: monospace;
+    font-size: 0.7em;
+    text-align: center;
+}
+
+/* economist pugpig html css*/
+h3.section-header__title {
+    color: #e3120b;
+}
+
+.article__body h3 {
+    font-size: 1.125rem;
+    line-height: 1.625rem;
+    color: #e3120b !important;
+    font-weight: bold;
+}
+
+/*new yorker*/
+
+.ny_article_category {
+    display: block;
+    color: #e3120b !important;
+    text-align: center;
+}
+
+.ny_article_author {
+    display: block;
+    font-weight: bold;
+    font-size: 1.1em;
+    color: black;
+    text-align: center;
+}
+
+.ny_article_datePublished {
+    display: block;
+    text-align: center;
+    font-size: 0.75em;
+    color: rgba(102, 102, 102, 1);
+    margin: 5px;
+}
+
+/*new scientist*/
+p.ns-header-group__slug {
+    font-size: 1.375rem;
+    line-height: 1.9097222222rem;
+    color: #b50304;
+}
+
+h1.ns-header-group__headline {
+    font-weight: 900;
+    font-size: 2.25rem;
+    line-height: 2.5568181818rem;
+}
+
+.ns-header-group__excerpt {
+    font-size: 1.375rem;
+    line-height: 1.9097222222rem;
+}
+
+.ns-header-group__date {
+    font-size: 1.125rem;
+    font-weight: 600;
+    line-height: 1.5625rem;
+    margin-bottom: 0;
+}
+
+.ArticleImageCaption__Title {
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.3888888889rem;
+    margin-bottom: 0;
+}
+
+.ArticleImageCaption__Credit {
+    font-size: .75rem;
+    font-weight: 600;
+    line-height: 1.0416666667rem;
+    margin-bottom: 0;
+    color: gray;
+}

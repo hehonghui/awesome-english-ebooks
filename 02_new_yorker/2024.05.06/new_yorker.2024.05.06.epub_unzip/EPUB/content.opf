@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2024-05-04T04:01:16Z</meta>
+    <meta name="generator" content="Ebook-lib 0.18.1"/>
+    <dc:identifier id="id">3e73f934-10ff-442c-8ee5-1fe6ed747c1b</dc:identifier>
+    <dc:title>new_yorker.2024.05.06</dc:title>
+    <dc:language>en</dc:language>
+    <dc:creator id="creator">Kovid Goyal</dc:creator>
+    <dc:description>Articles in this issue:
+Teresita Fernández’s Shifting Sculptural Landscapes
+The Return, Again, of the Power Lunch
+Donald Trump’s Sleepy, Sleazy Criminal Trial
+The Civil War Photographers Before Kirsten Dunst
+Breaking a Ramadan Fast with Ramy Youssef
+How to Play Putin
+A Miami Heat Rookie Gets Checkmated
+Who’s Afraid of Judith Butler?
+Can Turning Office Towers Into Apartments Save Downtowns?
+Deb Haaland Confronts the History of the Federal Agency She Leads
+The Battle for Attention
+Horoscopes Written by My Mother
+Pulse
+Academic Freedom Under Fire
+Briefly Noted
+How Far Should We Carry the Logic of the Animal-Rights Movement?
+Taylor Swift’s Tortured Poetry
+“Stereophonic” and “Cabaret” Turn Up the Volume on Broadway
+Love Means Nothing in Tennis but Everything in “Challengers”
+Laundry
+...</dc:description>
+    <meta name="cover" content="cover-img"></meta>
+  </metadata>
+  <manifest>
+    <item href="styles/default_styles.css" id="89e4857e3a2e137f747e52af8d32e946" media-type="text/css"/>
+    <item href="cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="book_toc.html" id="chapter_0" media-type="text/html"/>
+    <item href="Teresita Fernández’s Shifting Sculptural Landscapes.html" id="chapter_1" media-type="text/html"/>
+    <item href="The Return, Again, of the Power Lunch.html" id="chapter_2" media-type="text/html"/>
+    <item href="Goings On_section_index.html" id="chapter_3" media-type="text/html"/>
+    <item href="Donald Trump’s Sleepy, Sleazy Criminal Trial.html" id="chapter_4" media-type="text/html"/>
+    <item href="The Civil War Photographers Before Kirsten Dunst.html" id="chapter_5" media-type="text/html"/>
+    <item href="Breaking a Ramadan Fast with Ramy Youssef.html" id="chapter_6" media-type="text/html"/>
+    <item href="How to Play Putin.html" id="chapter_7" media-type="text/html"/>
+    <item href="A Miami Heat Rookie Gets Checkmated.html" id="chapter_8" media-type="text/html"/>
+    <item href="The Talk of the Town_section_index.html" id="chapter_9" media-type="text/html"/>
+    <item href="Who’s Afraid of Judith Butler?.html" id="chapter_10" media-type="text/html"/>
+    <item href="Can Turning Office Towers Into Apartments Save Downtowns?.html" id="chapter_11" media-type="text/html"/>
+    <item href="Deb Haaland Confronts the History of the Federal Agency She Leads.html" id="chapter_12" media-type="text/html"/>
+    <item href="The Battle for Attention.html" id="chapter_13" media-type="text/html"/>
+    <item href="Reporting &amp; Essays_section_index.html" id="chapter_14" media-type="text/html"/>
+    <item href="Horoscopes Written by My Mother.html" id="chapter_15" media-type="text/html"/>
+    <item href="Shouts &amp; Murmurs_section_index.html" id="chapter_16" media-type="text/html"/>
+    <item href="Pulse.html" id="chapter_17" media-type="text/html"/>
+    <item href="Fiction_section_index.html" id="chapter_18" media-type="text/html"/>
+    <item href="Academic Freedom Under Fire.html" id="chapter_19" media-type="text/html"/>
+    <item href="Briefly Noted.html" id="chapter_20" media-type="text/html"/>
+    <item href="How Far Should We Carry the Logic of the Animal-Rights Movement?.html" id="chapter_21" media-type="text/html"/>
+    <item href="Taylor Swift’s Tortured Poetry.html" id="chapter_22" media-type="text/html"/>
+    <item href="“Stereophonic” and “Cabaret” Turn Up the Volume on Broadway.html" id="chapter_23" media-type="text/html"/>
+    <item href="Love Means Nothing in Tennis but Everything in “Challengers”.html" id="chapter_24" media-type="text/html"/>
+    <item href="The Critics_section_index.html" id="chapter_25" media-type="text/html"/>
+    <item href="Laundry.html" id="chapter_26" media-type="text/html"/>
+    <item href="Second Nature.html" id="chapter_27" media-type="text/html"/>
+    <item href="Poems_section_index.html" id="chapter_28" media-type="text/html"/>
+    <item href="The Crossword: Monday, April 29, 2024.html" id="chapter_29" media-type="text/html"/>
+    <item href="Puzzles &amp; Games_section_index.html" id="chapter_30" media-type="text/html"/>
+    <item href="The Mail.html" id="chapter_31" media-type="text/html"/>
+    <item href="Mail_section_index.html" id="chapter_32" media-type="text/html"/>
+    <item href="images/da4ef1dd78a3339ce30aa4a3e19c7425.jpg" id="fcf1729121208b2aa9ebb971b9af62b9" media-type="image/jpeg"/>
+    <item href="images/0b31242656c3e682e4e4a7b2ce8d6b11.gif" id="c345f0657c83b00aab90b947a515ecb2" media-type="image/gif"/>
+    <item href="images/80e12f7ec4fdcecacc901191d8eb18ec.jpg" id="0c5709d4728eec72c6fd90a01aaa7c21" media-type="image/jpeg"/>
+    <item href="images/2b250d8dde614dadcfb011b05f105621.jpg" id="cbff17578337feda45ded2e85bdc3f29" media-type="image/jpeg"/>
+    <item href="images/ec16be67606c9d0ee338162a9b4d930a.jpg" id="59cb3478ff30da0c6d4b9d9505db9614" media-type="image/jpeg"/>
+    <item href="images/8e57fb806a0f82e7a00cb36c2017345e.jpg" id="0470a14fd43e1d7ac23008782721978b" media-type="image/jpeg"/>
+    <item href="images/cd45e9c2f17f2fb95d27bb49c894846e.jpg" id="8accc27ac3450527ddb007e9f6750c49" media-type="image/jpeg"/>
+    <item href="images/fd3b0c7c2ec459a3dbf68f6b22b6e957.jpg" id="fd6b580ce1e418ba160364a8d5b49b4e" media-type="image/jpeg"/>
+    <item href="images/d2950521e311743e17b399e006f5983a.jpg" id="fcb4034e26488729232c9eb1969d2f54" media-type="image/jpeg"/>
+    <item href="images/57ce8a0eceb3f73a76a7201de729fb0d.jpg" id="789d27d43327f7131ca60372b1a99457" media-type="image/jpeg"/>
+    <item href="images/1982b489c70048d6962a095d36a44047.jpg" id="1df7b39367f0fabf1627ad6e104835fe" media-type="image/jpeg"/>
+    <item href="images/8ac6029bd046879abed8b4d627d4506c.jpg" id="88f4c2c7b48fd237aeb590dc66d94c93" media-type="image/jpeg"/>
+    <item href="images/2ff5791fe7c839523431867ad1b75f4f.jpg" id="bd19c05723eb04af71c360fcedc4faaf" media-type="image/jpeg"/>
+    <item href="images/789c8647546aa2b8b72cd079877d5ee4.jpg" id="88d64e3c0af05770b7b95bb33a0cf18e" media-type="image/jpeg"/>
+    <item href="images/32b94cdc88a2895fc81e303079862af7.jpg" id="9a0748405e5d7ab195945ec9e0d6a926" media-type="image/jpeg"/>
+    <item href="images/343b07d66909ae9db5120659e5fffb86.jpg" id="b947f12f475ad231f227472d1421c449" media-type="image/jpeg"/>
+    <item href="images/26017ef2c8259f9f0dbb7ceb1f7cbfda.jpg" id="5bffd888c4c2ed7be7fea5c4fbed19bd" media-type="image/jpeg"/>
+    <item href="images/53d385eb4545c1622020d01af5fb879a.jpg" id="447898ceda54188b550791cf3763b485" media-type="image/jpeg"/>
+    <item href="images/94070e18fab15458a15244e868fcb3aa.jpg" id="48c37cce4ae3890791e4ba1e9903306d" media-type="image/jpeg"/>
+    <item href="images/64dd70c6d381aede6a621bf22aeccdee.jpg" id="15c772f46430dd1b10a005d6914d5f6a" media-type="image/jpeg"/>
+    <item href="images/da433ae784d12cf4e934735e87d3bf0d.jpg" id="6e4df3768682307bf35ad75006eb4b33" media-type="image/jpeg"/>
+    <item href="images/9b892a1428ad2a76f1404991a3a5aaeb.jpg" id="11c21cfe99c6e0ebfc891a39781bb2cc" media-type="image/jpeg"/>
+    <item href="images/cd46bce36fc45ba2798067395ab59b46.jpg" id="fcc03477414be069147b3177e57f90e3" media-type="image/jpeg"/>
+    <item href="images/3f6278e2d248996bc1137dec2ab7d21b.jpg" id="d902415b8e096984a08feed170e4e081" media-type="image/jpeg"/>
+    <item href="images/9012248adb4ce5f50a5a3a32bb1e749c.jpg" id="0b86066d77c97f6a7e15c6b97c18d790" media-type="image/jpeg"/>
+    <item href="images/c49d86d27c131d138d81878f48ccc574.jpg" id="d62dd057e8e93e6d01c511319831786b" media-type="image/jpeg"/>
+    <item href="images/9ddd05c90c87d4db7a1843eea93eeb69.jpg" id="40e874c587f1765b9971fdb27fc57a9d" media-type="image/jpeg"/>
+    <item href="images/9f4dd54fa58c8654e2317b43011d226c.jpg" id="35dce8534e9058b030ae0cdb01d4e8cf" media-type="image/jpeg"/>
+    <item href="images/d0b9944c045c77dacc34833e215e7a14.jpg" id="62160d9fda9371e43ece521ec75613af" media-type="image/jpeg"/>
+    <item href="images/25f6724d97d98dd938317cc8b3eadd1e.jpg" id="6a2b664ff2c5ae1f6a3c2347efeb5414" media-type="image/jpeg"/>
+    <item href="images/57180184a4d54525cd92f2cd4929c390.jpg" id="384e5eaede9d60219b76f72c47fe5532" media-type="image/jpeg"/>
+    <item href="images/252a722e797d26bbbba1c51039992f92.jpg" id="180c287d600e51888d804929739528a0" media-type="image/jpeg"/>
+    <item href="images/31421779e42908f3912d8ead70870a5b.jpg" id="3f0e52c9d33ec53336e126249eb3a1e2" media-type="image/jpeg"/>
+    <item href="images/45bff053037943bfea8d8f425234030e.jpg" id="46a3148c204dfef8bf74b5519502e959" media-type="image/jpeg"/>
+    <item href="images/523890cf7bc3a48a313c99d88f35da67.jpg" id="db45009ae26099386cee8c3d06ec1f5b" media-type="image/jpeg"/>
+    <item href="images/969b78c456ff9b82d8df3de51f772aab.jpg" id="fd41e0988723f1685cc132b5133096c8" media-type="image/jpeg"/>
+    <item href="images/4b3c4c28931531ae71956f4bb4ad9433.jpg" id="658982fec3ca9a4da73b9a833173f7d8" media-type="image/jpeg"/>
+    <item href="images/90d322b348450e5ead7b4795c77e502c.jpg" id="9f1a9c5a986de670c8dc7f67dd514e04" media-type="image/jpeg"/>
+    <item href="images/50bbc2238eba79e4df08a86408d5b4d6.jpg" id="2b432d02daea662c951f95a37c768dbb" media-type="image/jpeg"/>
+    <item href="images/374d55089c124e62fa11e0323abd2871.png" id="2959ef4fdcb2b5670c2a59299c715c2b" media-type="image/png"/>
+    <item href="images/fcb997f624009c3f9dbbf4bb34b29aed.png" id="4e88e4f2e3e6048a7bf1fdee376a5d29" media-type="image/png"/>
+    <item href="images/9ff4db5b9596cb6744d695fe3a0c6d4b.jpg" id="bdae1cc6cd732e878e4d7dcfbded48f1" media-type="image/jpeg"/>
+    <item href="images/6407d1ae1b849e5ef1a66eb79e8075b1.jpg" id="2c8563a8df98d12e2b0644923139b4e7" media-type="image/jpeg"/>
+    <item href="images/6c9362efe0b481985aae18ff8a39d2a1.gif" id="4094ae7982dea36673ab667ad61cd288" media-type="image/gif"/>
+    <item href="images/0a31670d7eaee4db469aad88ec73ca8b.png" id="477ce2049165c7e86b366d63f185fafa" media-type="image/png"/>
+    <item href="images/ac2944c9472825437ba96f90f6c616fb.jpg" id="a01f2a28d68029b33beb4d4198598c59" media-type="image/jpeg"/>
+    <item href="images/9ade610eb4b79e5ac4650cc39baf124a.jpg" id="e2f51177f6abd5b1df73093172d81c36" media-type="image/jpeg"/>
+    <item href="images/7ef3f3e65e4f1eec578b0b4321f17297.jpg" id="3afe3416ed584deccc8dfd250b8ec523" media-type="image/jpeg"/>
+    <item href="images/9adbd73e1af0f5339539febdd3474a07.jpg" id="ed1189f80345675e684e734b60edf8c2" media-type="image/jpeg"/>
+    <item href="images/371ce3563e210cfaf44b0c2445e08124.jpg" id="704f55a2775d45ca6bb0c3cdbc17f6b3" media-type="image/jpeg"/>
+    <item href="images/33ae1b40126eaa0fa8ce2a256628ee4e.png" id="118fa4127fe1b26550a79c7ac5a86769" media-type="image/png"/>
+    <item href="images/e7e48ffa8ef442be5d6c1a35ab0f4093.jpg" id="e2f1b259a8ee147651013ca8ccf8de08" media-type="image/jpeg"/>
+    <item href="images/5ef2a7747dd250c22d72f0c3dfbbe1cf.png" id="1f7b1135f3d44f298fc36d7fe6f2468d" media-type="image/png"/>
+    <item href="images/fe4b47e472a7a28f7b2bb0dc07880047.jpg" id="fdd3b938b2a3425f344959aba87a56ee" media-type="image/jpeg"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_9"/>
+    <itemref idref="chapter_4"/>
+    <itemref idref="chapter_5"/>
+    <itemref idref="chapter_6"/>
+    <itemref idref="chapter_7"/>
+    <itemref idref="chapter_8"/>
+    <itemref idref="chapter_14"/>
+    <itemref idref="chapter_10"/>
+    <itemref idref="chapter_11"/>
+    <itemref idref="chapter_12"/>
+    <itemref idref="chapter_13"/>
+    <itemref idref="chapter_16"/>
+    <itemref idref="chapter_15"/>
+    <itemref idref="chapter_18"/>
+    <itemref idref="chapter_17"/>
+    <itemref idref="chapter_25"/>
+    <itemref idref="chapter_19"/>
+    <itemref idref="chapter_20"/>
+    <itemref idref="chapter_21"/>
+    <itemref idref="chapter_22"/>
+    <itemref idref="chapter_23"/>
+    <itemref idref="chapter_24"/>
+    <itemref idref="chapter_28"/>
+    <itemref idref="chapter_26"/>
+    <itemref idref="chapter_27"/>
+    <itemref idref="chapter_30"/>
+    <itemref idref="chapter_29"/>
+    <itemref idref="chapter_32"/>
+    <itemref idref="chapter_31"/>
+  </spine>
+</package>
