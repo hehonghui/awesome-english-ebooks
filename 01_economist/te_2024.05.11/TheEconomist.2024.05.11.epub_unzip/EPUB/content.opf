@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2024-05-10T04:07:36Z</meta>
+    <meta name="generator" content="Ebook-lib 0.18.1"/>
+    <dc:identifier id="id">14b2e7ef-98e8-4233-839a-8f1f0bf32e41</dc:identifier>
+    <dc:title>TheEconomist.2024.05.11</dc:title>
+    <dc:language>en</dc:language>
+    <dc:creator id="creator">Kovid Goyal</dc:creator>
+    <dc:description>Articles in this issue:
+Politics
+Business
+KAL’s cartoon
+This week’s covers
+What companies can expect if Labour wins Britain’s election
+The liberal international order is slowly coming apart
+How “judge-mandering” is eroding trust in America’s judiciary
+The world’s most improbable success story still needs to evolve
+Threats to Europe’s economy are mounting. Finance can help fortify it
+How to pacify the world’s most violent region
+Letters to the editor
+Chigozie Obioma laments the West’s growing ideological tribalism
+The world’s economic order is breaking down
+America’s federal district courts may soon be harder to manipulate
+Plenty of circumstantial evidence at Donald Trump’s trial
+American pupils have missed too much school since the pandemic
+How Kristi Noem missed her shot to be vice-president
+Why online marketplaces have not killed the estate sale
+Will unions sweep the American South?
+Why the Republicans will convene in a forge of American socialism
+...</dc:description>
+    <meta name="cover" content="cover-img"></meta>
+  </metadata>
+  <manifest>
+    <item href="static_styles/default_styles.css" id="89e4857e3a2e137f747e52af8d32e946" media-type="text/css"/>
+    <item href="static_images/mastheadImage.jpg" id="3edc8c4c2128419ff0e79b87fa8495fd" media-type="image/jpeg"/>
+    <item href="static_images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="book_toc.html" id="chapter_0" media-type="text/html"/>
+    <item href="Politics.html" id="chapter_1" media-type="text/html"/>
+    <item href="Business.html" id="chapter_2" media-type="text/html"/>
+    <item href="KAL’s cartoon.html" id="chapter_3" media-type="text/html"/>
+    <item href="This week’s covers.html" id="chapter_4" media-type="text/html"/>
+    <item href="The world this week_section_index.html" id="chapter_5" media-type="text/html"/>
+    <item href="What companies can expect if Labour wins Britain’s election.html" id="chapter_6" media-type="text/html"/>
+    <item href="The liberal international order is slowly coming apart.html" id="chapter_7" media-type="text/html"/>
+    <item href="How “judge-mandering” is eroding trust in America’s judiciary.html" id="chapter_8" media-type="text/html"/>
+    <item href="The world’s most improbable success story still needs to evolve.html" id="chapter_9" media-type="text/html"/>
+    <item href="Threats to Europe’s economy are mounting. Finance can help fortify it.html" id="chapter_10" media-type="text/html"/>
+    <item href="How to pacify the world’s most violent region.html" id="chapter_11" media-type="text/html"/>
+    <item href="Leaders_section_index.html" id="chapter_12" media-type="text/html"/>
+    <item href="Letters to the editor.html" id="chapter_13" media-type="text/html"/>
+    <item href="Letters_section_index.html" id="chapter_14" media-type="text/html"/>
+    <item href="Chigozie Obioma laments the West’s growing ideological tribalism.html" id="chapter_15" media-type="text/html"/>
+    <item href="By Invitation_section_index.html" id="chapter_16" media-type="text/html"/>
+    <item href="The world’s economic order is breaking down.html" id="chapter_17" media-type="text/html"/>
+    <item href="Briefing_section_index.html" id="chapter_18" media-type="text/html"/>
+    <item href="America’s federal district courts may soon be harder to manipulate.html" id="chapter_19" media-type="text/html"/>
+    <item href="Plenty of circumstantial evidence at Donald Trump’s trial.html" id="chapter_20" media-type="text/html"/>
+    <item href="American pupils have missed too much school since the pandemic.html" id="chapter_21" media-type="text/html"/>
+    <item href="How Kristi Noem missed her shot to be vice-president.html" id="chapter_22" media-type="text/html"/>
+    <item href="Why online marketplaces have not killed the estate sale.html" id="chapter_23" media-type="text/html"/>
+    <item href="Will unions sweep the American South?.html" id="chapter_24" media-type="text/html"/>
+    <item href="Why the Republicans will convene in a forge of American socialism.html" id="chapter_25" media-type="text/html"/>
+    <item href="United States_section_index.html" id="chapter_26" media-type="text/html"/>
+    <item href="The world’s most violent region needs a new approach to crime.html" id="chapter_27" media-type="text/html"/>
+    <item href="Rural Colombia welcomes gangs that mete out vigilante justice.html" id="chapter_28" media-type="text/html"/>
+    <item href="The Americas_section_index.html" id="chapter_29" media-type="text/html"/>
+    <item href="An interview with Lawrence Wong, Singapore’s next PM.html" id="chapter_30" media-type="text/html"/>
+    <item href="Singapore has achieved astounding economic success.html" id="chapter_31" media-type="text/html"/>
+    <item href="In South-East Asia, the war in Gaza is roiling emotions.html" id="chapter_32" media-type="text/html"/>
+    <item href="India has quietly transformed its ports.html" id="chapter_33" media-type="text/html"/>
+    <item href="Asia_section_index.html" id="chapter_34" media-type="text/html"/>
+    <item href="Visiting Europe, Xi Jinping brings up an old grievance.html" id="chapter_35" media-type="text/html"/>
+    <item href="Why young Russian women appear so eager to marry Chinese men.html" id="chapter_36" media-type="text/html"/>
+    <item href="In today’s China, to get rich is perilous.html" id="chapter_37" media-type="text/html"/>
+    <item href="China_section_index.html" id="chapter_38" media-type="text/html"/>
+    <item href="After a dramatic week in Gaza, where does the war stand?.html" id="chapter_39" media-type="text/html"/>
+    <item href="Why are Arab armed forces so ineffective?.html" id="chapter_40" media-type="text/html"/>
+    <item href="Under Joe Biden, America struggles to reassert itself in Africa.html" id="chapter_41" media-type="text/html"/>
+    <item href="Middle East &amp; Africa_section_index.html" id="chapter_42" media-type="text/html"/>
+    <item href="Ukraine’s defenders anxiously dig in for a looming Russian assault.html" id="chapter_43" media-type="text/html"/>
+    <item href="Dealers are selling war trophies to buy weapons for Ukraine.html" id="chapter_44" media-type="text/html"/>
+    <item href="Protests against a Russian-style law threaten Georgia’s government.html" id="chapter_45" media-type="text/html"/>
+    <item href="Romania’s hard right looks strong in a year of four elections.html" id="chapter_46" media-type="text/html"/>
+    <item href="Israel is defying calls to shun it at Eurovision.html" id="chapter_47" media-type="text/html"/>
+    <item href="National days offer a study into the inner psyche of Europeans.html" id="chapter_48" media-type="text/html"/>
+    <item href="Europe_section_index.html" id="chapter_49" media-type="text/html"/>
+    <item href="The Labour Party’s grand bargain with business.html" id="chapter_50" media-type="text/html"/>
+    <item href="Who is Angela Rayner?.html" id="chapter_51" media-type="text/html"/>
+    <item href="Could the Greens become a force in British politics?.html" id="chapter_52" media-type="text/html"/>
+    <item href="Wayve achieves Britain’s largest-ever fundraising round.html" id="chapter_53" media-type="text/html"/>
+    <item href="Now it’s Prince William’s turn to shape British town planning.html" id="chapter_54" media-type="text/html"/>
+    <item href="The Conservatives’ world has disappeared. Don’t tell Rishi Sunak.html" id="chapter_55" media-type="text/html"/>
+    <item href="Britain_section_index.html" id="chapter_56" media-type="text/html"/>
+    <item href="The world’s rules-based order is cracking.html" id="chapter_57" media-type="text/html"/>
+    <item href="International_section_index.html" id="chapter_58" media-type="text/html"/>
+    <item href="The global financial system is in danger of fragmenting.html" id="chapter_59" media-type="text/html"/>
+    <item href="How crises reshaped the world financial system.html" id="chapter_60" media-type="text/html"/>
+    <item href="The movement of capital globally is in decline.html" id="chapter_61" media-type="text/html"/>
+    <item href="National payment systems are proliferating.html" id="chapter_62" media-type="text/html"/>
+    <item href="The fight to dethrone the dollar.html" id="chapter_63" media-type="text/html"/>
+    <item href="How the financial system would respond to a superpower war.html" id="chapter_64" media-type="text/html"/>
+    <item href="Sources and acknowledgments.html" id="chapter_65" media-type="text/html"/>
+    <item href="Worlds apart.html" id="chapter_66" media-type="text/html"/>
+    <item href="Special report_section_index.html" id="chapter_67" media-type="text/html"/>
+    <item href="Big tech’s great AI power grab.html" id="chapter_68" media-type="text/html"/>
+    <item href="AI and other tricks are bringing power lines into the 21st century.html" id="chapter_69" media-type="text/html"/>
+    <item href="Is America Inc’s war for talent over?.html" id="chapter_70" media-type="text/html"/>
+    <item href="For Gen-Z job-seekers, TikTok is the new LinkedIn.html" id="chapter_71" media-type="text/html"/>
+    <item href="Will chatbots eat India’s IT industry?.html" id="chapter_72" media-type="text/html"/>
+    <item href="Can Alibaba get the magic back?.html" id="chapter_73" media-type="text/html"/>
+    <item href="Business_section_index.html" id="chapter_74" media-type="text/html"/>
+    <item href="What Xi Jinping gets wrong about China’s economy.html" id="chapter_75" media-type="text/html"/>
+    <item href="What would get China’s consumers spending?.html" id="chapter_76" media-type="text/html"/>
+    <item href="How Ukrainian farmers are using the cover of war to escape taxes.html" id="chapter_77" media-type="text/html"/>
+    <item href="Why the global cocoa market is melting down.html" id="chapter_78" media-type="text/html"/>
+    <item href="Against expectations, European banks are thriving.html" id="chapter_79" media-type="text/html"/>
+    <item href="Banks, at least, are making money from a turbulent world.html" id="chapter_80" media-type="text/html"/>
+    <item href="Could America and its allies club together to weaken the dollar?.html" id="chapter_81" media-type="text/html"/>
+    <item href="Finance &amp; economics_section_index.html" id="chapter_82" media-type="text/html"/>
+    <item href="Archaeologists identify the birthplace of the mysterious Yamnaya.html" id="chapter_83" media-type="text/html"/>
+    <item href="Wind turbines keep getting bigger.html" id="chapter_84" media-type="text/html"/>
+    <item href="New crop-spraying technologies are more efficient than ever.html" id="chapter_85" media-type="text/html"/>
+    <item href="To stay fit, future Moon-dwellers will need special workouts.html" id="chapter_86" media-type="text/html"/>
+    <item href="Science &amp; technology_section_index.html" id="chapter_87" media-type="text/html"/>
+    <item href="True tales of secrecy, opacity and outright thievery in art.html" id="chapter_88" media-type="text/html"/>
+    <item href="What strategies actually work to fight dying?.html" id="chapter_89" media-type="text/html"/>
+    <item href="Why Beethoven’s ninth appeals to democrats and despots alike.html" id="chapter_90" media-type="text/html"/>
+    <item href="How the chilli pepper has set fire to the internet in China.html" id="chapter_91" media-type="text/html"/>
+    <item href="In its 200 years the National Gallery has mirrored Britain.html" id="chapter_92" media-type="text/html"/>
+    <item href="American comedy has become too safe on TV.html" id="chapter_93" media-type="text/html"/>
+    <item href="Culture_section_index.html" id="chapter_94" media-type="text/html"/>
+    <item href="These books reveal why the brain is the biggest mystery of all.html" id="chapter_95" media-type="text/html"/>
+    <item href="The Economist reads_section_index.html" id="chapter_96" media-type="text/html"/>
+    <item href="Economic data, commodities and markets.html" id="chapter_97" media-type="text/html"/>
+    <item href="Economic &amp; financial indicators_section_index.html" id="chapter_98" media-type="text/html"/>
+    <item href="Anne Innis Dagg devoted her life to the world’s tallest creature.html" id="chapter_99" media-type="text/html"/>
+    <item href="Obituary_section_index.html" id="chapter_100" media-type="text/html"/>
+    <item href="static_images/5f69cbb7dbca98775f1d3128b0c4bcfc.jpg" id="2b13a70ec31ba70bfbddfed4dda64820" media-type="image/jpeg"/>
+    <item href="static_images/bed854c8c6f683b3291e83c6fd3bad77.png" id="126d2a47f69c4fba965a4aa8c842d4d2" media-type="image/png"/>
+    <item href="static_images/2b5ad4f6248331aa2bcea792298f7f37.png" id="d65230e0885faec10ea0abb3bcee9fd5" media-type="image/png"/>
+    <item href="static_images/ae57ecfec4141dab377fc992eeca51f7.png" id="4d63ddb808463aabee30b432f8ff2683" media-type="image/png"/>
+    <item href="static_images/2b163da10d11b3630f9fe6c6be030522.png" id="e71f093c346f6a91cee6c64176bdbf72" media-type="image/png"/>
+    <item href="static_images/f639114e5476512f0e18d7e854f5765d.jpg" id="6b1f36b45973423ef37af5418d23dff2" media-type="image/jpeg"/>
+    <item href="static_images/15b4c21356d2f1973ca02a36489684cf.jpg" id="5e75468ebac61da2d93114810bc3eced" media-type="image/jpeg"/>
+    <item href="static_images/b7905f3f13eeb07eb0e768d176426d14.png" id="fdc44247193caeafdc2abdae647daba8" media-type="image/png"/>
+    <item href="static_images/87104084bdccbdf7c173db0a155fb764.png" id="0b5fb37a92b0865a1bbc65c0591e55dc" media-type="image/png"/>
+    <item href="static_images/1a7233467f662628d52e11d676a66583.jpg" id="090497a8630d5755f7b0f6bc57d1860f" media-type="image/jpeg"/>
+    <item href="static_images/ec386aadcfe4e7d44ac3e877d6df4f7e.png" id="e17dfe0de299627e548596c44dc03233" media-type="image/png"/>
+    <item href="static_images/fdbd3664e318328db15cc25728ded011.png" id="cc2cdbffdb21bb22e2b22da71a323668" media-type="image/png"/>
+    <item href="static_images/454f5f5962f3f7e05799f3a0dfcedd36.jpg" id="268dce94ca276b759fa8349a1978a724" media-type="image/jpeg"/>
+    <item href="static_images/440735c4811b57ee9b1cd31a9cbae923.png" id="a9c453eaf4945448c7b6ec38d0720775" media-type="image/png"/>
+    <item href="static_images/4dd6f2c02ee25f6f011523640201cbd5.jpg" id="213d4fcdbbfc3a155a48e0039e6c0a8e" media-type="image/jpeg"/>
+    <item href="static_images/37d17cffd88fd09d696cfe56ef8175d2.png" id="59970660d8cb7dad88987e7dd5a89db8" media-type="image/png"/>
+    <item href="static_images/44bfc27eb7842dda704b85f10c27f2b0.png" id="be1d9952b623056cb957a3e687a41826" media-type="image/png"/>
+    <item href="static_images/bfa345c438caa3a316b1dca3c18f9dcd.jpg" id="7e4667f7cb37f21613dd8cb1c35d936a" media-type="image/jpeg"/>
+    <item href="static_images/5cc38613882b6ba8769ced5ed1151d70.jpg" id="b02972a7b432c85c1f40d97473b285b5" media-type="image/jpeg"/>
+    <item href="static_images/a511d9b6744cd2a443e323a13d5e01c4.jpg" id="2f98985732968cc11721c181722e2f5e" media-type="image/jpeg"/>
+    <item href="static_images/6bed419a6287018bb143cebc50b60968.jpg" id="0435ae142b8b0d50c360c419889047d7" media-type="image/jpeg"/>
+    <item href="static_images/a9a7c9dd36352ff692a2f4e47a5fc79a.jpg" id="41be93f5a911a145a8944569b8b2edeb" media-type="image/jpeg"/>
+    <item href="static_images/d9cb4dbadad68b297592943433d37440.jpg" id="ccfd34ee492d94d112b809618c3e8371" media-type="image/jpeg"/>
+    <item href="static_images/082ee60263b7eafbe9c24f3494f9fef7.png" id="4e2eba4bc56b602d1cc35f2fd1b1eab6" media-type="image/png"/>
+    <item href="static_images/795a6f626ebc4c5a4c007698436e6383.jpg" id="6283cdbff174b68ffd2d0a9969630d77" media-type="image/jpeg"/>
+    <item href="static_images/2304f2a69739dde459c5f0e8b65b1fb1.jpg" id="3d6939cd3a35a970b7b9f859e6466466" media-type="image/jpeg"/>
+    <item href="static_images/46e65f0794bafc0c52dd7cba2b7fed5c.jpg" id="c34d451a520ae1e737eabc7a37cbc3b6" media-type="image/jpeg"/>
+    <item href="static_images/6b5a7715d89839e41cf22c9c891e0a5b.png" id="28c29a5f53c0a775bd422d7c5312dd0b" media-type="image/png"/>
+    <item href="static_images/265e44efdc8010aa4e437d7ee8143ffb.jpg" id="78d03d959931cd35bff99972a1020eb7" media-type="image/jpeg"/>
+    <item href="static_images/5de12bbc51d872925691f0085a3ae4b1.jpg" id="cfff66431c6a063fa3387e9f4fc46533" media-type="image/jpeg"/>
+    <item href="static_images/a31e84f73f5c24822c342b0be22a18be.jpg" id="d64173a11cb05c422978dbac467c302d" media-type="image/jpeg"/>
+    <item href="static_images/9bc43a5b78a442d6dc4d55817f74c8bc.png" id="cf8ae5712b93f5b29ce856f1da4c87ed" media-type="image/png"/>
+    <item href="static_images/a141fc72f9a9ea3b7f23b681b30c8669.jpg" id="61a411c59faef8c75839ea0086923195" media-type="image/jpeg"/>
+    <item href="static_images/88ccfd3a7fe80b3cc04f254c3ab0be4a.jpg" id="f2dd79ecce1685fe037ce6c694ca7bde" media-type="image/jpeg"/>
+    <item href="static_images/b3d874fbb2f601a86c2a2fd4f37334f1.jpg" id="691d1d05f8f9d33046e5f37e42fc239a" media-type="image/jpeg"/>
+    <item href="static_images/6d8c676269c8f28c60345d0f48169776.jpg" id="af9e3e1d25ab2eadf45f0c580c3df7de" media-type="image/jpeg"/>
+    <item href="static_images/2fbb2c9245f9799653ea7d623cdfee8b.jpg" id="608975bbd8fef99120bbec472f5a3c44" media-type="image/jpeg"/>
+    <item href="static_images/f16106334503d68c5bbd6a0e58394b1a.jpg" id="a81aa7dfa86bc1c69a1a9d68dbec5667" media-type="image/jpeg"/>
+    <item href="static_images/5e973c48558acdd5f101c423962ee5dc.jpg" id="838b1532a550fe20e5b8a9f300cbaf8a" media-type="image/jpeg"/>
+    <item href="static_images/af629681e4e051437b90e2b15817cb7b.jpg" id="ae98b06f87dd1e7a558efb9b3dc19406" media-type="image/jpeg"/>
+    <item href="static_images/05ad8e18c49bf183c28beb9cabb9bf2e.jpg" id="179688abd637fc72e54d6ae62993603d" media-type="image/jpeg"/>
+    <item href="static_images/d35942375be76fcdea6d88b35d6953cd.png" id="97182ef746dfdcae997c74cc40e3df76" media-type="image/png"/>
+    <item href="static_images/23f22279770e456893bd988cec6f97cd.png" id="c160f8705eb7334700014113c1e295f6" media-type="image/png"/>
+    <item href="static_images/0b1934dc5381673e6ea053be782e04fe.jpg" id="319ac8eb959efc6eb47aac4f6e13a84b" media-type="image/jpeg"/>
+    <item href="static_images/a5673c064c6da40946ed02e716a268c8.png" id="2c05e71861978f6a7bade6d0b936cc0d" media-type="image/png"/>
+    <item href="static_images/6e4cf64bb080c86b7037ef9e66f3aeb8.jpg" id="f1ffd819c425dcfda7f1f73668fe15c4" media-type="image/jpeg"/>
+    <item href="static_images/be58d27e1529764c5eab08e1afcbb11e.jpg" id="f71b85d1be9e0a8f434847a4c0cdc434" media-type="image/jpeg"/>
+    <item href="static_images/c519b19bee430b159a3cd18417206d2f.png" id="783a92ad19b7f141ced4d6f7f0a39b13" media-type="image/png"/>
+    <item href="static_images/4ba28d0b45d7acb6560e15fd74aa3625.jpg" id="b7e1363075cc7ded5e613dbef10ec2f8" media-type="image/jpeg"/>
+    <item href="static_images/ae674a85f626e8940588b795853426c0.jpg" id="6b7fc6b0346616fdfbc2093c8110765f" media-type="image/jpeg"/>
+    <item href="static_images/e6d61d64ae259e2c4ad29a9ea4bcd852.png" id="2fe37ab2b9f42c7d5dead5d843fdf766" media-type="image/png"/>
+    <item href="static_images/ac8a584861c307ab67b2ab4d7ad8f897.jpg" id="de404ece44de737cdd7e04e58d3a1eac" media-type="image/jpeg"/>
+    <item href="static_images/342babf187a4f05b4033d3d15172a3bb.png" id="b59293b6324ea18814c49e1098a46494" media-type="image/png"/>
+    <item href="static_images/b7da147b6932b5f8538bac7b21d34547.png" id="4101ad82f65cc298eb4117c02865eff9" media-type="image/png"/>
+    <item href="static_images/4a907ef4420651164ada6c038e6df3db.jpg" id="8d552a7479f72f8c4bfcc7c556e2c83f" media-type="image/jpeg"/>
+    <item href="static_images/b79dc1e112df533ae50ccda5fb42e186.jpg" id="54bed8d1247ad03cf5d4f038264f74c6" media-type="image/jpeg"/>
+    <item href="static_images/82dc9e2061b020920cc35ded44d87c80.jpg" id="33e6b97bccc2a5abc9a859e91399f891" media-type="image/jpeg"/>
+    <item href="static_images/0e67d53676d3d1012801ce1cfe677a66.jpg" id="ed42ed5bc12f6f9afd99da595b33f9c1" media-type="image/jpeg"/>
+    <item href="static_images/c7fc28c7a6ec2ba425ade390b6b4a94f.jpg" id="102e688fe52534822e6a14e8a068103e" media-type="image/jpeg"/>
+    <item href="static_images/94e5c92015af928ad172db6936240874.png" id="4fcffefb03c44ac424767ae21453a8bd" media-type="image/png"/>
+    <item href="static_images/ea55abb220cefd2c2b475dc4b38a84ad.jpg" id="156f703a66da040f0adcae88ff48b096" media-type="image/jpeg"/>
+    <item href="static_images/f4c6f853d24f69d17244bdda51d96dfb.png" id="58fe42bec552f4db9c80c2d1d8c561f2" media-type="image/png"/>
+    <item href="static_images/6d88741f430efa5dfccae55ae6dadace.png" id="86f74f6a84f53e3c8c667a889c3a6eeb" media-type="image/png"/>
+    <item href="static_images/9848bfe9c889f08aca9c32aaf409ff31.jpg" id="46dcec308568cc07b7f75ed516a5a31d" media-type="image/jpeg"/>
+    <item href="static_images/8861c4c7028f476c5198727623c32139.jpg" id="56077fd68a79fdb7ea0ea1e882e72cba" media-type="image/jpeg"/>
+    <item href="static_images/4bbfa151907522370d9aee43493ae92b.jpg" id="9f5c2a12968d57a04e911fc1e7af8576" media-type="image/jpeg"/>
+    <item href="static_images/65d2be95aab72d9dd1d31a8a92e00344.png" id="64aab9641b91423b45e30ce9d9690c78" media-type="image/png"/>
+    <item href="static_images/53d52ea8683d7190189043d832ee56fd.png" id="f6145fd5ea634e439b802963ac34eee1" media-type="image/png"/>
+    <item href="static_images/2f36dce7d438649ce8b5065c5344e5ff.jpg" id="523fe4cdbd2dab5adb84c5afa14063db" media-type="image/jpeg"/>
+    <item href="static_images/321962c998a8be9d67a35b41ac386cb0.jpg" id="84b91a3068cc8e76722b1ee7f3586b9b" media-type="image/jpeg"/>
+    <item href="static_images/c64af433531b81d398087354bde18acb.jpg" id="87032b7fc8d7f1e8c15d2a0310f21d87" media-type="image/jpeg"/>
+    <item href="static_images/c23cd4abda3073c6787fce7d64fb8911.jpg" id="e85ea3b9c28b710e3fe6752c76bff909" media-type="image/jpeg"/>
+    <item href="static_images/5920b21db0c3444ef44f5980ac138044.jpg" id="bb066213c034e0d38b6c34004937605c" media-type="image/jpeg"/>
+    <item href="static_images/2574d9a66117e813fdae2ea1420b3c20.jpg" id="480524882cae876bdfd84b111862d922" media-type="image/jpeg"/>
+    <item href="static_images/7c6c63c9a0f1406bba6ac210f79663ce.jpg" id="59be2b088e73d33c7caceb869f4aa971" media-type="image/jpeg"/>
+    <item href="static_images/fb3f13c3bfa1f94c793da4f68e1139ec.jpg" id="5b97d0ae40f275e8a46042f4bd33caf7" media-type="image/jpeg"/>
+    <item href="static_images/1ef98ab21d8ff6d070d064ef3e0987db.png" id="89155ac97c730b7a215081574d7ac425" media-type="image/png"/>
+    <item href="static_images/c25ece1e803e2c1a96d82066dea06100.png" id="0a7a45e9969c888bd33c1619901e1d7c" media-type="image/png"/>
+    <item href="static_images/041685bd601d4be30a1e37077012f5bc.jpg" id="01ec5967887d65d1bacb4e8d14b3b19a" media-type="image/jpeg"/>
+    <item href="static_images/9adc02774849e27c8ae8772e5a3463d1.jpg" id="568f1e27797676fa4bd4fda4bbb998ee" media-type="image/jpeg"/>
+    <item href="static_images/8deac4a541d117738ad82fba5ed86076.png" id="34851ed2ba299836f1c5675710826a97" media-type="image/png"/>
+    <item href="static_images/33711b0c21ccfccbc0001023c9437f4d.png" id="ea4617f1fd357d9f601c64f629b66632" media-type="image/png"/>
+    <item href="static_images/87a308bdc904f4e30283395b464f47da.jpg" id="fabe9e061283fc25a1d3d1897fe4f0f6" media-type="image/jpeg"/>
+    <item href="static_images/b651d835cf6dea39006766cc27e86fac.jpg" id="009bc19d1b48dd6de90c1b7ea4444647" media-type="image/jpeg"/>
+    <item href="static_images/b6ac38c97ae221134a39bb4198160c13.jpg" id="a3fd291f5174ebe8b7d4f6d91f59a91b" media-type="image/jpeg"/>
+    <item href="static_images/9b09a6f58a8c82d866540238cd179214.jpg" id="9c0fcd585ea3415d47fc67641980b0a9" media-type="image/jpeg"/>
+    <item href="static_images/fd248b1b17bfdb61911b7fa175cb3107.jpg" id="5125cd9aaa3e3797bba1b020c70d2eee" media-type="image/jpeg"/>
+    <item href="static_images/4914401a7663de790743aece191b644b.jpg" id="404f599bb435baa9942a06fe150ad8d5" media-type="image/jpeg"/>
+    <item href="static_images/87f15be0c338b99fde9dd69f11c06cee.jpg" id="ed8afb37ad6181dd7fcc6b32478e4192" media-type="image/jpeg"/>
+    <item href="static_images/c784119468ac768f070445c16cfccb7e.jpg" id="a2b223fa4e1171517a9a9fd3643d6f83" media-type="image/jpeg"/>
+    <item href="static_images/de209ddb790da149749d0a980350241f.jpg" id="a4e29166570dddb64c1c56e567480220" media-type="image/jpeg"/>
+    <item href="static_images/afd82945381ecdb19dc26338b196f7e6.jpg" id="ff93fb3f8c55183d7a423c472ebd27fd" media-type="image/jpeg"/>
+    <item href="static_images/3e7a046d99477ac267efc3f7c28d12e5.jpg" id="9a2c719b6e1819d04c3edb5df89ab6a4" media-type="image/jpeg"/>
+    <item href="static_images/fb8a2c1d329fcc94ff52bb3484860359.jpg" id="ef65599f05966289d59a202571ce82dd" media-type="image/jpeg"/>
+    <item href="static_images/4fb4fc7f9225b1796b25f0e0eaaee1fe.png" id="3f9bc30bd64ad106774acdfa544133ff" media-type="image/png"/>
+    <item href="static_images/4a90ef40306fa80e012a2563273d9c36.jpg" id="6b9b8da6527e7a5f608cc01cbc53641a" media-type="image/jpeg"/>
+    <item href="static_images/17c863f1ff27ca2214dc2931d51b1699.jpg" id="6f09f18c5f4284080b505d58bf68a978" media-type="image/jpeg"/>
+    <item href="static_images/e3f3e6afbfe430da9dc4179c884db101.jpg" id="c364e1d1b723845e9209da10881630f4" media-type="image/jpeg"/>
+    <item href="static_images/51f1c3ca8190d9afc14c05f8182a35fc.jpg" id="716cc7bd637e7e6701e4fe78241bcce0" media-type="image/jpeg"/>
+    <item href="static_images/531040833d22bfb1b555d9d38101739b.jpg" id="f0412ae4e7686f4115f1b5b2b3c9559a" media-type="image/jpeg"/>
+    <item href="static_images/5231856fd3fba0d73d409394ba747720.png" id="bc0ae9ff24bdf192b5df455bb141b57c" media-type="image/png"/>
+    <item href="static_images/662efa624266b068a88392eadcbfd8d7.jpg" id="ebdc819539aaacdda0f69b3b79f1c62a" media-type="image/jpeg"/>
+    <item href="static_images/58f6d9be59d03a889a40eef30636d386.jpg" id="dee6b3dea8c77fab1df7f9a61a59f21d" media-type="image/jpeg"/>
+    <item href="static_images/1a319449fa66bfc2041af1dd04801b6c.jpg" id="871f1b8941bd596b7060105583bac3bb" media-type="image/jpeg"/>
+    <item href="static_images/e661c5f713e91c1599061d8baae9e5b0.jpg" id="aa138665fd38f688d0e7f83a82482260" media-type="image/jpeg"/>
+    <item href="static_images/21ebf77412b27bde9c3cb762a548c881.jpg" id="d194f2125bb35b935a4fd48a128dfe96" media-type="image/jpeg"/>
+    <item href="static_images/6ef4da50e6592a902f63bc1079d7d82c.jpg" id="3125ed5ead76b93cc43f0ef03435b29e" media-type="image/jpeg"/>
+    <item href="static_images/d88e99554188de644fff47697dc0f0af.jpg" id="6052fb134c496e0bceba29a8b5a691f4" media-type="image/jpeg"/>
+    <item href="static_images/e88e302f31544b8a3ed1750802458d3c.jpg" id="842efb868638268de0f1725b1cc7e852" media-type="image/jpeg"/>
+    <item href="static_images/d87536d7f7d1169b61c0d214fc8d5260.png" id="54188544c19828858ffc84341db65a15" media-type="image/png"/>
+    <item href="static_images/e45cade9ed8f9a9d6793a4db0b884da7.png" id="034d522cccb81017099a55118914d382" media-type="image/png"/>
+    <item href="static_images/512d7b8864c4fa12bc4797f6a6b74f48.jpg" id="cdf1e6589b3e79029b3c2c7da7792a7f" media-type="image/jpeg"/>
+    <item href="static_images/74654708ef4b89de7067499df1f0c8ea.png" id="d39fdb5bb16b619f02e92fcdfe1fde25" media-type="image/png"/>
+    <item href="static_images/b973adb0b75a7e7db5f89b6e0a0e649f.png" id="edcac9cdb01e3c93f53b94011e9847c9" media-type="image/png"/>
+    <item href="static_images/3aba019e090616cfe724fe725bf394cf.png" id="f7399c2338444006f25a2088fb248f80" media-type="image/png"/>
+    <item href="static_images/9f20332efa7a619ef1dc2fb70523a591.jpg" id="a6ad72a3fb9691302c82565bd03d010b" media-type="image/jpeg"/>
+    <item href="static_images/b01fe0d4e2ce7bad6a05a17fe72d4c29.jpg" id="22259f1c1abd3f420563a940554108d2" media-type="image/jpeg"/>
+    <item href="static_images/285feaee2cc13995e8afe203273baf2e.jpg" id="9e5936f752db84be787b5de11414f4f5" media-type="image/jpeg"/>
+    <item href="static_images/6b596b28d3058c5bc1ee866521dbea50.jpg" id="3077fbe235bda9438c336aa875108d9e" media-type="image/jpeg"/>
+    <item href="static_images/d3b082ea7c564a2a0a6ffda47ac1d09d.jpg" id="6c022a34fce99e22448895c970fb33e1" media-type="image/jpeg"/>
+    <item href="static_images/ac2192809fe421b78fe83cd73a3e5cd6.jpg" id="5344898e3ce3e93cea69b2e07261b5bb" media-type="image/jpeg"/>
+    <item href="static_images/66cd2d0bd3fbf7f12d1bad348222df3a.png" id="24fea80b048d4b2672da11e2e85d1344" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_5"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_4"/>
+    <itemref idref="chapter_12"/>
+    <itemref idref="chapter_6"/>
+    <itemref idref="chapter_7"/>
+    <itemref idref="chapter_8"/>
+    <itemref idref="chapter_9"/>
+    <itemref idref="chapter_10"/>
+    <itemref idref="chapter_11"/>
+    <itemref idref="chapter_14"/>
+    <itemref idref="chapter_13"/>
+    <itemref idref="chapter_16"/>
+    <itemref idref="chapter_15"/>
+    <itemref idref="chapter_18"/>
+    <itemref idref="chapter_17"/>
+    <itemref idref="chapter_26"/>
+    <itemref idref="chapter_19"/>
+    <itemref idref="chapter_20"/>
+    <itemref idref="chapter_21"/>
+    <itemref idref="chapter_22"/>
+    <itemref idref="chapter_23"/>
+    <itemref idref="chapter_24"/>
+    <itemref idref="chapter_25"/>
+    <itemref idref="chapter_29"/>
+    <itemref idref="chapter_27"/>
+    <itemref idref="chapter_28"/>
+    <itemref idref="chapter_34"/>
+    <itemref idref="chapter_30"/>
+    <itemref idref="chapter_31"/>
+    <itemref idref="chapter_32"/>
+    <itemref idref="chapter_33"/>
+    <itemref idref="chapter_38"/>
+    <itemref idref="chapter_35"/>
+    <itemref idref="chapter_36"/>
+    <itemref idref="chapter_37"/>
+    <itemref idref="chapter_42"/>
+    <itemref idref="chapter_39"/>
+    <itemref idref="chapter_40"/>
+    <itemref idref="chapter_41"/>
+    <itemref idref="chapter_49"/>
+    <itemref idref="chapter_43"/>
+    <itemref idref="chapter_44"/>
+    <itemref idref="chapter_45"/>
+    <itemref idref="chapter_46"/>
+    <itemref idref="chapter_47"/>
+    <itemref idref="chapter_48"/>
+    <itemref idref="chapter_56"/>
+    <itemref idref="chapter_50"/>
+    <itemref idref="chapter_51"/>
+    <itemref idref="chapter_52"/>
+    <itemref idref="chapter_53"/>
+    <itemref idref="chapter_54"/>
+    <itemref idref="chapter_55"/>
+    <itemref idref="chapter_58"/>
+    <itemref idref="chapter_57"/>
+    <itemref idref="chapter_67"/>
+    <itemref idref="chapter_59"/>
+    <itemref idref="chapter_60"/>
+    <itemref idref="chapter_61"/>
+    <itemref idref="chapter_62"/>
+    <itemref idref="chapter_63"/>
+    <itemref idref="chapter_64"/>
+    <itemref idref="chapter_65"/>
+    <itemref idref="chapter_66"/>
+    <itemref idref="chapter_74"/>
+    <itemref idref="chapter_68"/>
+    <itemref idref="chapter_69"/>
+    <itemref idref="chapter_70"/>
+    <itemref idref="chapter_71"/>
+    <itemref idref="chapter_72"/>
+    <itemref idref="chapter_73"/>
+    <itemref idref="chapter_82"/>
+    <itemref idref="chapter_75"/>
+    <itemref idref="chapter_76"/>
+    <itemref idref="chapter_77"/>
+    <itemref idref="chapter_78"/>
+    <itemref idref="chapter_79"/>
+    <itemref idref="chapter_80"/>
+    <itemref idref="chapter_81"/>
+    <itemref idref="chapter_87"/>
+    <itemref idref="chapter_83"/>
+    <itemref idref="chapter_84"/>
+    <itemref idref="chapter_85"/>
+    <itemref idref="chapter_86"/>
+    <itemref idref="chapter_94"/>
+    <itemref idref="chapter_88"/>
+    <itemref idref="chapter_89"/>
+    <itemref idref="chapter_90"/>
+    <itemref idref="chapter_91"/>
+    <itemref idref="chapter_92"/>
+    <itemref idref="chapter_93"/>
+    <itemref idref="chapter_96"/>
+    <itemref idref="chapter_95"/>
+    <itemref idref="chapter_98"/>
+    <itemref idref="chapter_97"/>
+    <itemref idref="chapter_100"/>
+    <itemref idref="chapter_99"/>
+  </spine>
+</package>

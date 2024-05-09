@@ -1,0 +1,614 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="14b2e7ef-98e8-4233-839a-8f1f0bf32e41" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>TheEconomist.2024.05.11</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="sep_0" playOrder="1">
+      <navLabel>
+        <text>The world this week</text>
+      </navLabel>
+      <content src="Politics.html"/>
+      <navPoint id="chapter_1" playOrder="2">
+        <navLabel>
+          <text>Politics</text>
+        </navLabel>
+        <content src="Politics.html"/>
+      </navPoint>
+      <navPoint id="chapter_2" playOrder="3">
+        <navLabel>
+          <text>Business</text>
+        </navLabel>
+        <content src="Business.html"/>
+      </navPoint>
+      <navPoint id="chapter_3" playOrder="4">
+        <navLabel>
+          <text>KAL’s cartoon</text>
+        </navLabel>
+        <content src="KAL’s cartoon.html"/>
+      </navPoint>
+      <navPoint id="chapter_4" playOrder="5">
+        <navLabel>
+          <text>This week’s covers</text>
+        </navLabel>
+        <content src="This week’s covers.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_1" playOrder="6">
+      <navLabel>
+        <text>Leaders</text>
+      </navLabel>
+      <content src="What companies can expect if Labour wins Britain’s election.html"/>
+      <navPoint id="chapter_6" playOrder="7">
+        <navLabel>
+          <text>What companies can expect if Labour wins Britain’s election</text>
+        </navLabel>
+        <content src="What companies can expect if Labour wins Britain’s election.html"/>
+      </navPoint>
+      <navPoint id="chapter_7" playOrder="8">
+        <navLabel>
+          <text>The liberal international order is slowly coming apart</text>
+        </navLabel>
+        <content src="The liberal international order is slowly coming apart.html"/>
+      </navPoint>
+      <navPoint id="chapter_8" playOrder="9">
+        <navLabel>
+          <text>How “judge-mandering” is eroding trust in America’s judiciary</text>
+        </navLabel>
+        <content src="How “judge-mandering” is eroding trust in America’s judiciary.html"/>
+      </navPoint>
+      <navPoint id="chapter_9" playOrder="10">
+        <navLabel>
+          <text>The world’s most improbable success story still needs to evolve</text>
+        </navLabel>
+        <content src="The world’s most improbable success story still needs to evolve.html"/>
+      </navPoint>
+      <navPoint id="chapter_10" playOrder="11">
+        <navLabel>
+          <text>Threats to Europe’s economy are mounting. Finance can help fortify it</text>
+        </navLabel>
+        <content src="Threats to Europe’s economy are mounting. Finance can help fortify it.html"/>
+      </navPoint>
+      <navPoint id="chapter_11" playOrder="12">
+        <navLabel>
+          <text>How to pacify the world’s most violent region</text>
+        </navLabel>
+        <content src="How to pacify the world’s most violent region.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_2" playOrder="13">
+      <navLabel>
+        <text>Letters</text>
+      </navLabel>
+      <content src="Letters to the editor.html"/>
+      <navPoint id="chapter_13" playOrder="14">
+        <navLabel>
+          <text>Letters to the editor</text>
+        </navLabel>
+        <content src="Letters to the editor.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_3" playOrder="15">
+      <navLabel>
+        <text>By Invitation</text>
+      </navLabel>
+      <content src="Chigozie Obioma laments the West’s growing ideological tribalism.html"/>
+      <navPoint id="chapter_15" playOrder="16">
+        <navLabel>
+          <text>Chigozie Obioma laments the West’s growing ideological tribalism</text>
+        </navLabel>
+        <content src="Chigozie Obioma laments the West’s growing ideological tribalism.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_4" playOrder="17">
+      <navLabel>
+        <text>Briefing</text>
+      </navLabel>
+      <content src="The world’s economic order is breaking down.html"/>
+      <navPoint id="chapter_17" playOrder="18">
+        <navLabel>
+          <text>The world’s economic order is breaking down</text>
+        </navLabel>
+        <content src="The world’s economic order is breaking down.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_5" playOrder="19">
+      <navLabel>
+        <text>United States</text>
+      </navLabel>
+      <content src="America’s federal district courts may soon be harder to manipulate.html"/>
+      <navPoint id="chapter_19" playOrder="20">
+        <navLabel>
+          <text>America’s federal district courts may soon be harder to manipulate</text>
+        </navLabel>
+        <content src="America’s federal district courts may soon be harder to manipulate.html"/>
+      </navPoint>
+      <navPoint id="chapter_20" playOrder="21">
+        <navLabel>
+          <text>Plenty of circumstantial evidence at Donald Trump’s trial</text>
+        </navLabel>
+        <content src="Plenty of circumstantial evidence at Donald Trump’s trial.html"/>
+      </navPoint>
+      <navPoint id="chapter_21" playOrder="22">
+        <navLabel>
+          <text>American pupils have missed too much school since the pandemic</text>
+        </navLabel>
+        <content src="American pupils have missed too much school since the pandemic.html"/>
+      </navPoint>
+      <navPoint id="chapter_22" playOrder="23">
+        <navLabel>
+          <text>How Kristi Noem missed her shot to be vice-president</text>
+        </navLabel>
+        <content src="How Kristi Noem missed her shot to be vice-president.html"/>
+      </navPoint>
+      <navPoint id="chapter_23" playOrder="24">
+        <navLabel>
+          <text>Why online marketplaces have not killed the estate sale</text>
+        </navLabel>
+        <content src="Why online marketplaces have not killed the estate sale.html"/>
+      </navPoint>
+      <navPoint id="chapter_24" playOrder="25">
+        <navLabel>
+          <text>Will unions sweep the American South?</text>
+        </navLabel>
+        <content src="Will unions sweep the American South?.html"/>
+      </navPoint>
+      <navPoint id="chapter_25" playOrder="26">
+        <navLabel>
+          <text>Why the Republicans will convene in a forge of American socialism</text>
+        </navLabel>
+        <content src="Why the Republicans will convene in a forge of American socialism.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_6" playOrder="27">
+      <navLabel>
+        <text>The Americas</text>
+      </navLabel>
+      <content src="The world’s most violent region needs a new approach to crime.html"/>
+      <navPoint id="chapter_27" playOrder="28">
+        <navLabel>
+          <text>The world’s most violent region needs a new approach to crime</text>
+        </navLabel>
+        <content src="The world’s most violent region needs a new approach to crime.html"/>
+      </navPoint>
+      <navPoint id="chapter_28" playOrder="29">
+        <navLabel>
+          <text>Rural Colombia welcomes gangs that mete out vigilante justice</text>
+        </navLabel>
+        <content src="Rural Colombia welcomes gangs that mete out vigilante justice.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_7" playOrder="30">
+      <navLabel>
+        <text>Asia</text>
+      </navLabel>
+      <content src="An interview with Lawrence Wong, Singapore’s next PM.html"/>
+      <navPoint id="chapter_30" playOrder="31">
+        <navLabel>
+          <text>An interview with Lawrence Wong, Singapore’s next PM</text>
+        </navLabel>
+        <content src="An interview with Lawrence Wong, Singapore’s next PM.html"/>
+      </navPoint>
+      <navPoint id="chapter_31" playOrder="32">
+        <navLabel>
+          <text>Singapore has achieved astounding economic success</text>
+        </navLabel>
+        <content src="Singapore has achieved astounding economic success.html"/>
+      </navPoint>
+      <navPoint id="chapter_32" playOrder="33">
+        <navLabel>
+          <text>In South-East Asia, the war in Gaza is roiling emotions</text>
+        </navLabel>
+        <content src="In South-East Asia, the war in Gaza is roiling emotions.html"/>
+      </navPoint>
+      <navPoint id="chapter_33" playOrder="34">
+        <navLabel>
+          <text>India has quietly transformed its ports</text>
+        </navLabel>
+        <content src="India has quietly transformed its ports.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_8" playOrder="35">
+      <navLabel>
+        <text>China</text>
+      </navLabel>
+      <content src="Visiting Europe, Xi Jinping brings up an old grievance.html"/>
+      <navPoint id="chapter_35" playOrder="36">
+        <navLabel>
+          <text>Visiting Europe, Xi Jinping brings up an old grievance</text>
+        </navLabel>
+        <content src="Visiting Europe, Xi Jinping brings up an old grievance.html"/>
+      </navPoint>
+      <navPoint id="chapter_36" playOrder="37">
+        <navLabel>
+          <text>Why young Russian women appear so eager to marry Chinese men</text>
+        </navLabel>
+        <content src="Why young Russian women appear so eager to marry Chinese men.html"/>
+      </navPoint>
+      <navPoint id="chapter_37" playOrder="38">
+        <navLabel>
+          <text>In today’s China, to get rich is perilous</text>
+        </navLabel>
+        <content src="In today’s China, to get rich is perilous.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_9" playOrder="39">
+      <navLabel>
+        <text>Middle East &amp; Africa</text>
+      </navLabel>
+      <content src="After a dramatic week in Gaza, where does the war stand?.html"/>
+      <navPoint id="chapter_39" playOrder="40">
+        <navLabel>
+          <text>After a dramatic week in Gaza, where does the war stand?</text>
+        </navLabel>
+        <content src="After a dramatic week in Gaza, where does the war stand?.html"/>
+      </navPoint>
+      <navPoint id="chapter_40" playOrder="41">
+        <navLabel>
+          <text>Why are Arab armed forces so ineffective?</text>
+        </navLabel>
+        <content src="Why are Arab armed forces so ineffective?.html"/>
+      </navPoint>
+      <navPoint id="chapter_41" playOrder="42">
+        <navLabel>
+          <text>Under Joe Biden, America struggles to reassert itself in Africa</text>
+        </navLabel>
+        <content src="Under Joe Biden, America struggles to reassert itself in Africa.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_10" playOrder="43">
+      <navLabel>
+        <text>Europe</text>
+      </navLabel>
+      <content src="Ukraine’s defenders anxiously dig in for a looming Russian assault.html"/>
+      <navPoint id="chapter_43" playOrder="44">
+        <navLabel>
+          <text>Ukraine’s defenders anxiously dig in for a looming Russian assault</text>
+        </navLabel>
+        <content src="Ukraine’s defenders anxiously dig in for a looming Russian assault.html"/>
+      </navPoint>
+      <navPoint id="chapter_44" playOrder="45">
+        <navLabel>
+          <text>Dealers are selling war trophies to buy weapons for Ukraine</text>
+        </navLabel>
+        <content src="Dealers are selling war trophies to buy weapons for Ukraine.html"/>
+      </navPoint>
+      <navPoint id="chapter_45" playOrder="46">
+        <navLabel>
+          <text>Protests against a Russian-style law threaten Georgia’s government</text>
+        </navLabel>
+        <content src="Protests against a Russian-style law threaten Georgia’s government.html"/>
+      </navPoint>
+      <navPoint id="chapter_46" playOrder="47">
+        <navLabel>
+          <text>Romania’s hard right looks strong in a year of four elections</text>
+        </navLabel>
+        <content src="Romania’s hard right looks strong in a year of four elections.html"/>
+      </navPoint>
+      <navPoint id="chapter_47" playOrder="48">
+        <navLabel>
+          <text>Israel is defying calls to shun it at Eurovision</text>
+        </navLabel>
+        <content src="Israel is defying calls to shun it at Eurovision.html"/>
+      </navPoint>
+      <navPoint id="chapter_48" playOrder="49">
+        <navLabel>
+          <text>National days offer a study into the inner psyche of Europeans</text>
+        </navLabel>
+        <content src="National days offer a study into the inner psyche of Europeans.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_11" playOrder="50">
+      <navLabel>
+        <text>Britain</text>
+      </navLabel>
+      <content src="The Labour Party’s grand bargain with business.html"/>
+      <navPoint id="chapter_50" playOrder="51">
+        <navLabel>
+          <text>The Labour Party’s grand bargain with business</text>
+        </navLabel>
+        <content src="The Labour Party’s grand bargain with business.html"/>
+      </navPoint>
+      <navPoint id="chapter_51" playOrder="52">
+        <navLabel>
+          <text>Who is Angela Rayner?</text>
+        </navLabel>
+        <content src="Who is Angela Rayner?.html"/>
+      </navPoint>
+      <navPoint id="chapter_52" playOrder="53">
+        <navLabel>
+          <text>Could the Greens become a force in British politics?</text>
+        </navLabel>
+        <content src="Could the Greens become a force in British politics?.html"/>
+      </navPoint>
+      <navPoint id="chapter_53" playOrder="54">
+        <navLabel>
+          <text>Wayve achieves Britain’s largest-ever fundraising round</text>
+        </navLabel>
+        <content src="Wayve achieves Britain’s largest-ever fundraising round.html"/>
+      </navPoint>
+      <navPoint id="chapter_54" playOrder="55">
+        <navLabel>
+          <text>Now it’s Prince William’s turn to shape British town planning</text>
+        </navLabel>
+        <content src="Now it’s Prince William’s turn to shape British town planning.html"/>
+      </navPoint>
+      <navPoint id="chapter_55" playOrder="56">
+        <navLabel>
+          <text>The Conservatives’ world has disappeared. Don’t tell Rishi Sunak</text>
+        </navLabel>
+        <content src="The Conservatives’ world has disappeared. Don’t tell Rishi Sunak.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_12" playOrder="57">
+      <navLabel>
+        <text>International</text>
+      </navLabel>
+      <content src="The world’s rules-based order is cracking.html"/>
+      <navPoint id="chapter_57" playOrder="58">
+        <navLabel>
+          <text>The world’s rules-based order is cracking</text>
+        </navLabel>
+        <content src="The world’s rules-based order is cracking.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_13" playOrder="59">
+      <navLabel>
+        <text>Special report</text>
+      </navLabel>
+      <content src="The global financial system is in danger of fragmenting.html"/>
+      <navPoint id="chapter_59" playOrder="60">
+        <navLabel>
+          <text>The global financial system is in danger of fragmenting</text>
+        </navLabel>
+        <content src="The global financial system is in danger of fragmenting.html"/>
+      </navPoint>
+      <navPoint id="chapter_60" playOrder="61">
+        <navLabel>
+          <text>How crises reshaped the world financial system</text>
+        </navLabel>
+        <content src="How crises reshaped the world financial system.html"/>
+      </navPoint>
+      <navPoint id="chapter_61" playOrder="62">
+        <navLabel>
+          <text>The movement of capital globally is in decline</text>
+        </navLabel>
+        <content src="The movement of capital globally is in decline.html"/>
+      </navPoint>
+      <navPoint id="chapter_62" playOrder="63">
+        <navLabel>
+          <text>National payment systems are proliferating</text>
+        </navLabel>
+        <content src="National payment systems are proliferating.html"/>
+      </navPoint>
+      <navPoint id="chapter_63" playOrder="64">
+        <navLabel>
+          <text>The fight to dethrone the dollar</text>
+        </navLabel>
+        <content src="The fight to dethrone the dollar.html"/>
+      </navPoint>
+      <navPoint id="chapter_64" playOrder="65">
+        <navLabel>
+          <text>How the financial system would respond to a superpower war</text>
+        </navLabel>
+        <content src="How the financial system would respond to a superpower war.html"/>
+      </navPoint>
+      <navPoint id="chapter_65" playOrder="66">
+        <navLabel>
+          <text>Sources and acknowledgments</text>
+        </navLabel>
+        <content src="Sources and acknowledgments.html"/>
+      </navPoint>
+      <navPoint id="chapter_66" playOrder="67">
+        <navLabel>
+          <text>Worlds apart</text>
+        </navLabel>
+        <content src="Worlds apart.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_14" playOrder="68">
+      <navLabel>
+        <text>Business</text>
+      </navLabel>
+      <content src="Big tech’s great AI power grab.html"/>
+      <navPoint id="chapter_68" playOrder="69">
+        <navLabel>
+          <text>Big tech’s great AI power grab</text>
+        </navLabel>
+        <content src="Big tech’s great AI power grab.html"/>
+      </navPoint>
+      <navPoint id="chapter_69" playOrder="70">
+        <navLabel>
+          <text>AI and other tricks are bringing power lines into the 21st century</text>
+        </navLabel>
+        <content src="AI and other tricks are bringing power lines into the 21st century.html"/>
+      </navPoint>
+      <navPoint id="chapter_70" playOrder="71">
+        <navLabel>
+          <text>Is America Inc’s war for talent over?</text>
+        </navLabel>
+        <content src="Is America Inc’s war for talent over?.html"/>
+      </navPoint>
+      <navPoint id="chapter_71" playOrder="72">
+        <navLabel>
+          <text>For Gen-Z job-seekers, TikTok is the new LinkedIn</text>
+        </navLabel>
+        <content src="For Gen-Z job-seekers, TikTok is the new LinkedIn.html"/>
+      </navPoint>
+      <navPoint id="chapter_72" playOrder="73">
+        <navLabel>
+          <text>Will chatbots eat India’s IT industry?</text>
+        </navLabel>
+        <content src="Will chatbots eat India’s IT industry?.html"/>
+      </navPoint>
+      <navPoint id="chapter_73" playOrder="74">
+        <navLabel>
+          <text>Can Alibaba get the magic back?</text>
+        </navLabel>
+        <content src="Can Alibaba get the magic back?.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_15" playOrder="75">
+      <navLabel>
+        <text>Finance &amp; economics</text>
+      </navLabel>
+      <content src="What Xi Jinping gets wrong about China’s economy.html"/>
+      <navPoint id="chapter_75" playOrder="76">
+        <navLabel>
+          <text>What Xi Jinping gets wrong about China’s economy</text>
+        </navLabel>
+        <content src="What Xi Jinping gets wrong about China’s economy.html"/>
+      </navPoint>
+      <navPoint id="chapter_76" playOrder="77">
+        <navLabel>
+          <text>What would get China’s consumers spending?</text>
+        </navLabel>
+        <content src="What would get China’s consumers spending?.html"/>
+      </navPoint>
+      <navPoint id="chapter_77" playOrder="78">
+        <navLabel>
+          <text>How Ukrainian farmers are using the cover of war to escape taxes</text>
+        </navLabel>
+        <content src="How Ukrainian farmers are using the cover of war to escape taxes.html"/>
+      </navPoint>
+      <navPoint id="chapter_78" playOrder="79">
+        <navLabel>
+          <text>Why the global cocoa market is melting down</text>
+        </navLabel>
+        <content src="Why the global cocoa market is melting down.html"/>
+      </navPoint>
+      <navPoint id="chapter_79" playOrder="80">
+        <navLabel>
+          <text>Against expectations, European banks are thriving</text>
+        </navLabel>
+        <content src="Against expectations, European banks are thriving.html"/>
+      </navPoint>
+      <navPoint id="chapter_80" playOrder="81">
+        <navLabel>
+          <text>Banks, at least, are making money from a turbulent world</text>
+        </navLabel>
+        <content src="Banks, at least, are making money from a turbulent world.html"/>
+      </navPoint>
+      <navPoint id="chapter_81" playOrder="82">
+        <navLabel>
+          <text>Could America and its allies club together to weaken the dollar?</text>
+        </navLabel>
+        <content src="Could America and its allies club together to weaken the dollar?.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_16" playOrder="83">
+      <navLabel>
+        <text>Science &amp; technology</text>
+      </navLabel>
+      <content src="Archaeologists identify the birthplace of the mysterious Yamnaya.html"/>
+      <navPoint id="chapter_83" playOrder="84">
+        <navLabel>
+          <text>Archaeologists identify the birthplace of the mysterious Yamnaya</text>
+        </navLabel>
+        <content src="Archaeologists identify the birthplace of the mysterious Yamnaya.html"/>
+      </navPoint>
+      <navPoint id="chapter_84" playOrder="85">
+        <navLabel>
+          <text>Wind turbines keep getting bigger</text>
+        </navLabel>
+        <content src="Wind turbines keep getting bigger.html"/>
+      </navPoint>
+      <navPoint id="chapter_85" playOrder="86">
+        <navLabel>
+          <text>New crop-spraying technologies are more efficient than ever</text>
+        </navLabel>
+        <content src="New crop-spraying technologies are more efficient than ever.html"/>
+      </navPoint>
+      <navPoint id="chapter_86" playOrder="87">
+        <navLabel>
+          <text>To stay fit, future Moon-dwellers will need special workouts</text>
+        </navLabel>
+        <content src="To stay fit, future Moon-dwellers will need special workouts.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_17" playOrder="88">
+      <navLabel>
+        <text>Culture</text>
+      </navLabel>
+      <content src="True tales of secrecy, opacity and outright thievery in art.html"/>
+      <navPoint id="chapter_88" playOrder="89">
+        <navLabel>
+          <text>True tales of secrecy, opacity and outright thievery in art</text>
+        </navLabel>
+        <content src="True tales of secrecy, opacity and outright thievery in art.html"/>
+      </navPoint>
+      <navPoint id="chapter_89" playOrder="90">
+        <navLabel>
+          <text>What strategies actually work to fight dying?</text>
+        </navLabel>
+        <content src="What strategies actually work to fight dying?.html"/>
+      </navPoint>
+      <navPoint id="chapter_90" playOrder="91">
+        <navLabel>
+          <text>Why Beethoven’s ninth appeals to democrats and despots alike</text>
+        </navLabel>
+        <content src="Why Beethoven’s ninth appeals to democrats and despots alike.html"/>
+      </navPoint>
+      <navPoint id="chapter_91" playOrder="92">
+        <navLabel>
+          <text>How the chilli pepper has set fire to the internet in China</text>
+        </navLabel>
+        <content src="How the chilli pepper has set fire to the internet in China.html"/>
+      </navPoint>
+      <navPoint id="chapter_92" playOrder="93">
+        <navLabel>
+          <text>In its 200 years the National Gallery has mirrored Britain</text>
+        </navLabel>
+        <content src="In its 200 years the National Gallery has mirrored Britain.html"/>
+      </navPoint>
+      <navPoint id="chapter_93" playOrder="94">
+        <navLabel>
+          <text>American comedy has become too safe on TV</text>
+        </navLabel>
+        <content src="American comedy has become too safe on TV.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_18" playOrder="95">
+      <navLabel>
+        <text>The Economist reads</text>
+      </navLabel>
+      <content src="These books reveal why the brain is the biggest mystery of all.html"/>
+      <navPoint id="chapter_95" playOrder="96">
+        <navLabel>
+          <text>These books reveal why the brain is the biggest mystery of all</text>
+        </navLabel>
+        <content src="These books reveal why the brain is the biggest mystery of all.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_19" playOrder="97">
+      <navLabel>
+        <text>Economic &amp; financial indicators</text>
+      </navLabel>
+      <content src="Economic data, commodities and markets.html"/>
+      <navPoint id="chapter_97" playOrder="98">
+        <navLabel>
+          <text>Economic data, commodities and markets</text>
+        </navLabel>
+        <content src="Economic data, commodities and markets.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_20" playOrder="99">
+      <navLabel>
+        <text>Obituary</text>
+      </navLabel>
+      <content src="Anne Innis Dagg devoted her life to the world’s tallest creature.html"/>
+      <navPoint id="chapter_99" playOrder="100">
+        <navLabel>
+          <text>Anne Innis Dagg devoted her life to the world’s tallest creature</text>
+        </navLabel>
+        <content src="Anne Innis Dagg devoted her life to the world’s tallest creature.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
