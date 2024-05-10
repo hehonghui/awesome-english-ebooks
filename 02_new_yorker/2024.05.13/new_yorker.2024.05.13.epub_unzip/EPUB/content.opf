@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2024-05-11T04:01:23Z</meta>
+    <meta name="generator" content="Ebook-lib 0.18.1"/>
+    <dc:identifier id="id">dba8b78a-03da-495a-ad0f-b534b03f4dcf</dc:identifier>
+    <dc:title>new_yorker.2024.05.13</dc:title>
+    <dc:language>en</dc:language>
+    <dc:creator id="creator">Kovid Goyal</dc:creator>
+    <dc:description>Articles in this issue:
+Hilton Als on the Sui-Generis Films of Charles Atlas
+Are We Living Through a Bagel Renaissance?
+Should We Be Worried About Bird Flu?
+Maurizio Cattelan’s Armed Art Helpers
+The Grand Master of Slime
+In the Shabby-Chic Trenches of the Airport-Lounge Wars
+What Sleepy Trump Dreams About at Trial
+An A-List Animal Trainer Prepares a Great Dane for His Film Début
+Why We’re Turning Psychiatric Labels Into Identities
+Columbia’s Campus in Crisis
+The British Museum’s Blockbuster Scandals
+Arrow Retriever
+We’re Not So Different, You and I
+The Dead Rise at the Venice Biennale
+What the Origins of Humanity Can and Can’t Tell Us
+Claire Messud’s New Novel Maps the Search for a Home That Never Was
+Briefly Noted
+Dua Lipa Devotes Herself to Pleasure with “Radical Optimism”
+Three Broadway Shows Put Motherhood in the Spotlight
+“The Fall Guy” Is Gravity-Defying Fun, in Every Sense
+...</dc:description>
+    <meta name="cover" content="cover-img"></meta>
+  </metadata>
+  <manifest>
+    <item href="styles/default_styles.css" id="89e4857e3a2e137f747e52af8d32e946" media-type="text/css"/>
+    <item href="cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="book_toc.html" id="chapter_0" media-type="text/html"/>
+    <item href="Hilton Als on the Sui-Generis Films of Charles Atlas.html" id="chapter_1" media-type="text/html"/>
+    <item href="Are We Living Through a Bagel Renaissance?.html" id="chapter_2" media-type="text/html"/>
+    <item href="Goings On_section_index.html" id="chapter_3" media-type="text/html"/>
+    <item href="Should We Be Worried About Bird Flu?.html" id="chapter_4" media-type="text/html"/>
+    <item href="Maurizio Cattelan’s Armed Art Helpers.html" id="chapter_5" media-type="text/html"/>
+    <item href="The Grand Master of Slime.html" id="chapter_6" media-type="text/html"/>
+    <item href="In the Shabby-Chic Trenches of the Airport-Lounge Wars.html" id="chapter_7" media-type="text/html"/>
+    <item href="What Sleepy Trump Dreams About at Trial.html" id="chapter_8" media-type="text/html"/>
+    <item href="The Talk of the Town_section_index.html" id="chapter_9" media-type="text/html"/>
+    <item href="An A-List Animal Trainer Prepares a Great Dane for His Film Début.html" id="chapter_10" media-type="text/html"/>
+    <item href="Why We’re Turning Psychiatric Labels Into Identities.html" id="chapter_11" media-type="text/html"/>
+    <item href="Columbia’s Campus in Crisis.html" id="chapter_12" media-type="text/html"/>
+    <item href="The British Museum’s Blockbuster Scandals.html" id="chapter_13" media-type="text/html"/>
+    <item href="Reporting &amp; Essays_section_index.html" id="chapter_14" media-type="text/html"/>
+    <item href="Arrow Retriever.html" id="chapter_15" media-type="text/html"/>
+    <item href="Shouts &amp; Murmurs_section_index.html" id="chapter_16" media-type="text/html"/>
+    <item href="We’re Not So Different, You and I.html" id="chapter_17" media-type="text/html"/>
+    <item href="Fiction_section_index.html" id="chapter_18" media-type="text/html"/>
+    <item href="The Dead Rise at the Venice Biennale.html" id="chapter_19" media-type="text/html"/>
+    <item href="What the Origins of Humanity Can and Can’t Tell Us.html" id="chapter_20" media-type="text/html"/>
+    <item href="Claire Messud’s New Novel Maps the Search for a Home That Never Was.html" id="chapter_21" media-type="text/html"/>
+    <item href="Briefly Noted.html" id="chapter_22" media-type="text/html"/>
+    <item href="Dua Lipa Devotes Herself to Pleasure with “Radical Optimism”.html" id="chapter_23" media-type="text/html"/>
+    <item href="Three Broadway Shows Put Motherhood in the Spotlight.html" id="chapter_24" media-type="text/html"/>
+    <item href="“The Fall Guy” Is Gravity-Defying Fun, in Every Sense.html" id="chapter_25" media-type="text/html"/>
+    <item href="The Critics_section_index.html" id="chapter_26" media-type="text/html"/>
+    <item href="Crossing Byways.html" id="chapter_27" media-type="text/html"/>
+    <item href="Hail Mary.html" id="chapter_28" media-type="text/html"/>
+    <item href="Poems_section_index.html" id="chapter_29" media-type="text/html"/>
+    <item href="Letters from Our Readers.html" id="chapter_30" media-type="text/html"/>
+    <item href="The Mail_section_index.html" id="chapter_31" media-type="text/html"/>
+    <item href="images/7a2a43c6d93cf701b62de6d08371d4ff.jpg" id="86216b95c9b2f9ebb3948abc558c285a" media-type="image/jpeg"/>
+    <item href="images/696b18e1e23a32af138b3fb08997924f.jpg" id="7c9dbe8bbccbf6b961daefb1d10e259e" media-type="image/jpeg"/>
+    <item href="images/a33003a6891a5c2b437674e516bd7b65.jpg" id="a99055f67842db2dfbab3c32e0738b9f" media-type="image/jpeg"/>
+    <item href="images/1d646b3d781023c9b1d0e754eb69d8b5.jpg" id="06e26f111634974d2498136a0973ba76" media-type="image/jpeg"/>
+    <item href="images/81e7be6d51a5d0105c7520c054f46f3f.jpg" id="8a7010c9965af145d7e1f126e7170c25" media-type="image/jpeg"/>
+    <item href="images/8681583a2ec383cdfdafa2639bb5e430.jpg" id="167cf1492bdcebc801f2dc0df8428482" media-type="image/jpeg"/>
+    <item href="images/8974478272c60a76b76307baf61a9d99.jpg" id="b76c666807c0917937d2982dcb6e3341" media-type="image/jpeg"/>
+    <item href="images/7671100dfe80705f77b01fff42c5bb79.png" id="c5fb13d3dd22d6d9620a474be6061a90" media-type="image/png"/>
+    <item href="images/b5d6adcc8831d6e0834bb33dda76365b.jpg" id="862bb9b1a671ba8f4b78b9fdcf2fa57c" media-type="image/jpeg"/>
+    <item href="images/3ccec62fad6d16d7255c85020e28bc1e.jpg" id="0fb229cd88f8391e5c5c13a6a3bf1a53" media-type="image/jpeg"/>
+    <item href="images/8803bd804f6c70ec4a6ba3842bca9aa5.jpg" id="bcbe010270be21e223fdd004bcb3736d" media-type="image/jpeg"/>
+    <item href="images/4ea37a604a9c5586c7d809dfa3d5fc95.jpg" id="65035a8564a6c5236a2939f6f0ccce7d" media-type="image/jpeg"/>
+    <item href="images/ff88cc548ce2ee426b6fca66d05f208e.jpg" id="9561ed5facec260332dafe3adae584cc" media-type="image/jpeg"/>
+    <item href="images/cc75b1cb404e8ade0c2479740539d1e5.jpg" id="f1b023967c70e079e6e9e798e03d893e" media-type="image/jpeg"/>
+    <item href="images/69f00d4a22e24d5eb368246d1b79331d.jpg" id="3617d545d4666619e271ad5e51b3e888" media-type="image/jpeg"/>
+    <item href="images/99838eee2e782c00c330cb7aa8bd346b.jpg" id="5e322659cd97182a026cd48de71fc496" media-type="image/jpeg"/>
+    <item href="images/c325c96a778d84b7235d5333895e9d70.jpg" id="ef156b8a734a0c1917e7c41b031c4bed" media-type="image/jpeg"/>
+    <item href="images/a24e6e14b8e083ea89927b13e6950e21.jpg" id="956e54bd41ed7460e7ac1596eb0161e5" media-type="image/jpeg"/>
+    <item href="images/3095c452ad949806568e1364e0263695.jpg" id="9a9066d6e2221b432d95bf89e503bbf2" media-type="image/jpeg"/>
+    <item href="images/a8ea152092be61534a508288a0b32c6f.jpg" id="16f88705d68f6653feecb4b26287c5bd" media-type="image/jpeg"/>
+    <item href="images/02d6dd1a58dba5e6d7934b5d52c4e415.jpg" id="2653465d17839d54c90ccaf59a19a159" media-type="image/jpeg"/>
+    <item href="images/41fe3925f3f211006df9ce860ab9f6d9.jpg" id="22af3dcc8f0123efe3c3f1b77ceea6ea" media-type="image/jpeg"/>
+    <item href="images/c761655b9eead11140bd7985a2b10d64.jpg" id="a3187085f760e03d7809da3060272b9c" media-type="image/jpeg"/>
+    <item href="images/b7b14508de14a4d0e0dcac57ddff990e.jpg" id="a48df5773ca3b197bc7b118912e9ec17" media-type="image/jpeg"/>
+    <item href="images/3cab899ee9f6eecdf32a6616d61e4c97.jpg" id="f7f3f5de4f59b9ca27fd36f6434c5ae1" media-type="image/jpeg"/>
+    <item href="images/86c9905fbf305a85669c0cfa3922a644.jpg" id="f073764b473cdf7e1c8981dfbb268ddd" media-type="image/jpeg"/>
+    <item href="images/4cc2f31663db4a457b022094af05610d.png" id="98280b43623695a67d28f429e8883b54" media-type="image/png"/>
+    <item href="images/c287468385ff6770d8b4ff680907f500.jpg" id="e1c8537ba8861365b41d8b5862ba83cc" media-type="image/jpeg"/>
+    <item href="images/8bc25e53e204936f49b24f083778967e.jpg" id="43db0576d1a6a693e1de8212d38f4a33" media-type="image/jpeg"/>
+    <item href="images/02db4df2d2af57da035603d3270d5ac2.png" id="e45363ff73c5fc3e7aa1c5acf6e23d4d" media-type="image/png"/>
+    <item href="images/68e0f2fcb584937d1b99422f7a610a15.jpg" id="76a1741972cc47c6b38c3307857b8195" media-type="image/jpeg"/>
+    <item href="images/9adbd73e1af0f5339539febdd3474a07.jpg" id="9f252c4c6dfa1b576e51b7e123c1ce2c" media-type="image/jpeg"/>
+    <item href="images/27bb1cf75f695cdee890d074740141a0.jpg" id="94bdfd644347a7c5681177c62c54edd7" media-type="image/jpeg"/>
+    <item href="images/0036778d024f934ab133c03df489e7d0.jpg" id="0d503e4a54ab0517bb918dd7a2de1099" media-type="image/jpeg"/>
+    <item href="images/0b7a0f79cd2c338e41d1d49b64e2d516.jpg" id="5512df154db9b897a33f4f215a7aefcd" media-type="image/jpeg"/>
+    <item href="images/24da64259aefa65e0e3dd179db5c3b8d.jpg" id="7cdf3a4db352ce14214e572390248a7e" media-type="image/jpeg"/>
+    <item href="images/cc9a60683c945c667e04999a73c096f2.jpg" id="579ad68e37d1226d841db8847100486f" media-type="image/jpeg"/>
+    <item href="images/2110b0304edc79ea09cd70f5119b66f5.jpg" id="9c02da1fb7c3050f1f6c310213c66f71" media-type="image/jpeg"/>
+    <item href="images/5b9b337b33b6171944f9ff833e05a5f9.jpg" id="6f73af4ad688df92a694cace1940a7ae" media-type="image/jpeg"/>
+    <item href="images/5267278855003b9afe98bc2cdec93bcd.jpg" id="e6dd605306368987ae4ddb670eb28216" media-type="image/jpeg"/>
+    <item href="images/91fb7eef982f87977f10f4299debdce4.jpg" id="685d0e69f052bf182f88b4005b3c22a8" media-type="image/jpeg"/>
+    <item href="images/bc3f3cb0d06a829421809ffb09085355.jpg" id="00603b3fe70864937983871b70cf574b" media-type="image/jpeg"/>
+    <item href="images/cd7e234849ace3f702a4f6d3bee63155.jpg" id="d1f1017c6efeb91236e4e6a02f5eb5ab" media-type="image/jpeg"/>
+    <item href="images/fa6e627f946e71f7a019067d830a6d5b.jpg" id="3f07c0023a3c92568f80bf256722306e" media-type="image/jpeg"/>
+    <item href="images/0de66e4dc45bfd450fe9817ef1d979f4.jpg" id="db03281cec3ec0ff9e9c12e0ddf0d7b1" media-type="image/jpeg"/>
+    <item href="images/8d188f2fe8d4a8afb39eee75363b6c52.jpg" id="0cd9a34cb8f351f08ba3842c16632a89" media-type="image/jpeg"/>
+    <item href="images/2fceef465de1d029c7f76e0c91b5eb4f.jpg" id="3c501fc08454e1788c2cb60a76940280" media-type="image/jpeg"/>
+    <item href="images/cd45e9c2f17f2fb95d27bb49c894846e.jpg" id="171cbcab12cd4f2aff9a294b3e9dace9" media-type="image/jpeg"/>
+    <item href="images/a89b60386ce0fb3005c81e61cd88f1a9.jpg" id="266725b630c3b8729ba711ce83f4a45d" media-type="image/jpeg"/>
+    <item href="images/2feaf23559a02ef300c3cd5db7b941c6.jpg" id="e791b4a7dda8f540fe90d5d9f5267c61" media-type="image/jpeg"/>
+    <item href="images/911cfdfeaed0c1566ed46075a8d67b67.jpg" id="c3c89be6d50b5f16bb4fb1857095497a" media-type="image/jpeg"/>
+    <item href="images/225955d01bd19e5f15caac26a38062db.jpg" id="bb4e2251411fbc551c33c8b41604eae5" media-type="image/jpeg"/>
+    <item href="images/f895bbe5b9382d1e139114dd306872fd.jpg" id="47c162ea153f98d3b7f1aae9b383b9b6" media-type="image/jpeg"/>
+    <item href="images/06b2399edf257cd75391c08cb0a7f7e1.jpg" id="d1aa64f287eae8824574c0a76e8b290b" media-type="image/jpeg"/>
+    <item href="images/2761aa96a4521209b6fe2bf4dac6e4d4.jpg" id="051b136c026bb6e67fd2bcc3e2c3785d" media-type="image/jpeg"/>
+    <item href="images/7617e6c61856077bf4536c369b0487ee.jpg" id="8eb45bb899e402882906d2e7208e1d91" media-type="image/jpeg"/>
+    <item href="images/b13d1b9266e4fef550b3818fae4224df.jpg" id="e177470ffb508295cb226825237f2d42" media-type="image/jpeg"/>
+    <item href="images/067bfd19c8c28cadbdaae4a93793e2f5.jpg" id="59447555d0f81eab1d2656e813f96b6f" media-type="image/jpeg"/>
+    <item href="images/64dd70c6d381aede6a621bf22aeccdee.jpg" id="be7d5370da4c79b265b26c047bcec7ed" media-type="image/jpeg"/>
+    <item href="images/3e5d0a02f5e16ef952b1e6d507cc017c.jpg" id="8ca30abcba63390cf3813a36aa70d11f" media-type="image/jpeg"/>
+    <item href="images/7c48777b982166e72906daad5b596a40.jpg" id="070c5c6aff65cf3b4d5317ca455115ae" media-type="image/jpeg"/>
+    <item href="images/e8ceb7f9920cdf37412a199bffd9acb8.jpg" id="5ec79a13a440d5c070498f7704175fae" media-type="image/jpeg"/>
+    <item href="images/9250720d504dc91d24c47f9a2e733613.jpg" id="65bdce0202937273b08417a10305fa6e" media-type="image/jpeg"/>
+    <item href="images/7ba4a0c9a2c2dd897e610de0e973d936.jpg" id="044059d18d07642dfdb864a4cf85a35b" media-type="image/jpeg"/>
+    <item href="images/82c06ef85522b33dd55f49ff1d081866.jpg" id="978c6dfd29fc7de6713d22d9f36b80e8" media-type="image/jpeg"/>
+    <item href="images/149f9dbf97a3e9d475beac87f8b7be4b.jpg" id="629d1dfcb847efdde5d40719a0b653c9" media-type="image/jpeg"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_9"/>
+    <itemref idref="chapter_4"/>
+    <itemref idref="chapter_5"/>
+    <itemref idref="chapter_6"/>
+    <itemref idref="chapter_7"/>
+    <itemref idref="chapter_8"/>
+    <itemref idref="chapter_14"/>
+    <itemref idref="chapter_10"/>
+    <itemref idref="chapter_11"/>
+    <itemref idref="chapter_12"/>
+    <itemref idref="chapter_13"/>
+    <itemref idref="chapter_16"/>
+    <itemref idref="chapter_15"/>
+    <itemref idref="chapter_18"/>
+    <itemref idref="chapter_17"/>
+    <itemref idref="chapter_26"/>
+    <itemref idref="chapter_19"/>
+    <itemref idref="chapter_20"/>
+    <itemref idref="chapter_21"/>
+    <itemref idref="chapter_22"/>
+    <itemref idref="chapter_23"/>
+    <itemref idref="chapter_24"/>
+    <itemref idref="chapter_25"/>
+    <itemref idref="chapter_29"/>
+    <itemref idref="chapter_27"/>
+    <itemref idref="chapter_28"/>
+    <itemref idref="chapter_31"/>
+    <itemref idref="chapter_30"/>
+  </spine>
+</package>

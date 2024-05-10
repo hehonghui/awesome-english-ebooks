@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="dba8b78a-03da-495a-ad0f-b534b03f4dcf" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>new_yorker.2024.05.13</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="sep_0" playOrder="1">
+      <navLabel>
+        <text>Goings On</text>
+      </navLabel>
+      <content src="Hilton Als on the Sui-Generis Films of Charles Atlas.html"/>
+      <navPoint id="chapter_1" playOrder="2">
+        <navLabel>
+          <text>Hilton Als on the Sui-Generis Films of Charles Atlas</text>
+        </navLabel>
+        <content src="Hilton Als on the Sui-Generis Films of Charles Atlas.html"/>
+      </navPoint>
+      <navPoint id="chapter_2" playOrder="3">
+        <navLabel>
+          <text>Are We Living Through a Bagel Renaissance?</text>
+        </navLabel>
+        <content src="Are We Living Through a Bagel Renaissance?.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_1" playOrder="4">
+      <navLabel>
+        <text>The Talk of the Town</text>
+      </navLabel>
+      <content src="Should We Be Worried About Bird Flu?.html"/>
+      <navPoint id="chapter_4" playOrder="5">
+        <navLabel>
+          <text>Should We Be Worried About Bird Flu?</text>
+        </navLabel>
+        <content src="Should We Be Worried About Bird Flu?.html"/>
+      </navPoint>
+      <navPoint id="chapter_5" playOrder="6">
+        <navLabel>
+          <text>Maurizio Cattelan’s Armed Art Helpers</text>
+        </navLabel>
+        <content src="Maurizio Cattelan’s Armed Art Helpers.html"/>
+      </navPoint>
+      <navPoint id="chapter_6" playOrder="7">
+        <navLabel>
+          <text>The Grand Master of Slime</text>
+        </navLabel>
+        <content src="The Grand Master of Slime.html"/>
+      </navPoint>
+      <navPoint id="chapter_7" playOrder="8">
+        <navLabel>
+          <text>In the Shabby-Chic Trenches of the Airport-Lounge Wars</text>
+        </navLabel>
+        <content src="In the Shabby-Chic Trenches of the Airport-Lounge Wars.html"/>
+      </navPoint>
+      <navPoint id="chapter_8" playOrder="9">
+        <navLabel>
+          <text>What Sleepy Trump Dreams About at Trial</text>
+        </navLabel>
+        <content src="What Sleepy Trump Dreams About at Trial.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_2" playOrder="10">
+      <navLabel>
+        <text>Reporting &amp; Essays</text>
+      </navLabel>
+      <content src="An A-List Animal Trainer Prepares a Great Dane for His Film Début.html"/>
+      <navPoint id="chapter_10" playOrder="11">
+        <navLabel>
+          <text>An A-List Animal Trainer Prepares a Great Dane for His Film Début</text>
+        </navLabel>
+        <content src="An A-List Animal Trainer Prepares a Great Dane for His Film Début.html"/>
+      </navPoint>
+      <navPoint id="chapter_11" playOrder="12">
+        <navLabel>
+          <text>Why We’re Turning Psychiatric Labels Into Identities</text>
+        </navLabel>
+        <content src="Why We’re Turning Psychiatric Labels Into Identities.html"/>
+      </navPoint>
+      <navPoint id="chapter_12" playOrder="13">
+        <navLabel>
+          <text>Columbia’s Campus in Crisis</text>
+        </navLabel>
+        <content src="Columbia’s Campus in Crisis.html"/>
+      </navPoint>
+      <navPoint id="chapter_13" playOrder="14">
+        <navLabel>
+          <text>The British Museum’s Blockbuster Scandals</text>
+        </navLabel>
+        <content src="The British Museum’s Blockbuster Scandals.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_3" playOrder="15">
+      <navLabel>
+        <text>Shouts &amp; Murmurs</text>
+      </navLabel>
+      <content src="Arrow Retriever.html"/>
+      <navPoint id="chapter_15" playOrder="16">
+        <navLabel>
+          <text>Arrow Retriever</text>
+        </navLabel>
+        <content src="Arrow Retriever.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_4" playOrder="17">
+      <navLabel>
+        <text>Fiction</text>
+      </navLabel>
+      <content src="We’re Not So Different, You and I.html"/>
+      <navPoint id="chapter_17" playOrder="18">
+        <navLabel>
+          <text>We’re Not So Different, You and I</text>
+        </navLabel>
+        <content src="We’re Not So Different, You and I.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_5" playOrder="19">
+      <navLabel>
+        <text>The Critics</text>
+      </navLabel>
+      <content src="The Dead Rise at the Venice Biennale.html"/>
+      <navPoint id="chapter_19" playOrder="20">
+        <navLabel>
+          <text>The Dead Rise at the Venice Biennale</text>
+        </navLabel>
+        <content src="The Dead Rise at the Venice Biennale.html"/>
+      </navPoint>
+      <navPoint id="chapter_20" playOrder="21">
+        <navLabel>
+          <text>What the Origins of Humanity Can and Can’t Tell Us</text>
+        </navLabel>
+        <content src="What the Origins of Humanity Can and Can’t Tell Us.html"/>
+      </navPoint>
+      <navPoint id="chapter_21" playOrder="22">
+        <navLabel>
+          <text>Claire Messud’s New Novel Maps the Search for a Home That Never Was</text>
+        </navLabel>
+        <content src="Claire Messud’s New Novel Maps the Search for a Home That Never Was.html"/>
+      </navPoint>
+      <navPoint id="chapter_22" playOrder="23">
+        <navLabel>
+          <text>Briefly Noted</text>
+        </navLabel>
+        <content src="Briefly Noted.html"/>
+      </navPoint>
+      <navPoint id="chapter_23" playOrder="24">
+        <navLabel>
+          <text>Dua Lipa Devotes Herself to Pleasure with “Radical Optimism”</text>
+        </navLabel>
+        <content src="Dua Lipa Devotes Herself to Pleasure with “Radical Optimism”.html"/>
+      </navPoint>
+      <navPoint id="chapter_24" playOrder="25">
+        <navLabel>
+          <text>Three Broadway Shows Put Motherhood in the Spotlight</text>
+        </navLabel>
+        <content src="Three Broadway Shows Put Motherhood in the Spotlight.html"/>
+      </navPoint>
+      <navPoint id="chapter_25" playOrder="26">
+        <navLabel>
+          <text>“The Fall Guy” Is Gravity-Defying Fun, in Every Sense</text>
+        </navLabel>
+        <content src="“The Fall Guy” Is Gravity-Defying Fun, in Every Sense.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_6" playOrder="27">
+      <navLabel>
+        <text>Poems</text>
+      </navLabel>
+      <content src="Crossing Byways.html"/>
+      <navPoint id="chapter_27" playOrder="28">
+        <navLabel>
+          <text>Crossing Byways</text>
+        </navLabel>
+        <content src="Crossing Byways.html"/>
+      </navPoint>
+      <navPoint id="chapter_28" playOrder="29">
+        <navLabel>
+          <text>Hail Mary</text>
+        </navLabel>
+        <content src="Hail Mary.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_7" playOrder="30">
+      <navLabel>
+        <text>The Mail</text>
+      </navLabel>
+      <content src="Letters from Our Readers.html"/>
+      <navPoint id="chapter_30" playOrder="31">
+        <navLabel>
+          <text>Letters from Our Readers</text>
+        </navLabel>
+        <content src="Letters from Our Readers.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
