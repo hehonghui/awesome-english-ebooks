@@ -26,3 +26,5 @@ tmp
 ny_audios.json
 ./*.epub
 ./*/*/*.mobi
+*_unzip/
+*/*/*epub_unzip/
