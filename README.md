@@ -3,7 +3,7 @@
 
 ## 一、英语阅读专用App推荐
 
-* <img align="center" src="https://ereader.link/images/ereader.png" width="32px" /> 英阅阅读器 - 超好用的英语阅读神器, <font color="#e3120b">让您轻松读懂英文小说、外刊杂志</font>,支持点击查词、句子翻译、mdict英汉-英英词典、阅读笔记、AI学英语等功能,[iOS版下载](https://apps.apple.com/cn/app/ereader-%E8%8B%B1%E9%98%85%E9%98%85%E8%AF%BB%E5%99%A8/id1558805880)、[Android版下载](https://www.coolapk.com/apk/283424);
+* <img align="center" src="https://ereader.link/images/ereader.png" width="32px" /> 英阅阅读器 - 超好用的英语阅读神器, <font color="#e3120b">让您轻松读懂英文小说、外刊杂志</font>,支持点击查词、句子翻译、mdict英汉-英英词典、阅读笔记、AI学英语等功能,[iOS版下载](https://apps.apple.com/cn/app/ereader-%E8%8B%B1%E9%98%85%E9%98%85%E8%AF%BB%E5%99%A8/id1558805880)、[Android版下载(华为、小米等应用商店均可下载)](https://ereader.link/);
 
 ---------------------
 
