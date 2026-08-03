@@ -27,6 +27,7 @@ jobs:
   sync-r2:
     name: Sync changed publication files to R2
     runs-on: ubuntu-latest
+    environment: env
     steps:
       - name: Check out repository history
         uses: actions/checkout@v4
